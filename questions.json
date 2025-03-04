@@ -1,0 +1,2270 @@
+{
+  "Armonia I": [
+    {
+      "question": "¿Qué importancia tiene entender la armonía en la música?",
+      "answers": [
+        { "text": "Ayuda a tocar más rápido.", "correct": false },
+        { "text": "Facilita la interpretación de canciones.", "correct": false },
+        { "text": "Permite comprender cómo interactúan las notas y acordes.", "correct": true },
+        { "text": "No tiene relevancia en la música.", "correct": false }
+      ]
+    },
+    {
+      "question": "¿Cuántas notas por octava se establecieron en la convención de la música occidental?",
+      "answers": [
+        { "text": "7", "correct": false },
+        { "text": "12", "correct": true },
+        { "text": "8", "correct": false },
+        { "text": "24", "correct": false }
+      ]
+    },
+    {
+      "question": "¿Qué son los sostenidos y bemoles en música?",
+      "answers": [
+        { "text": "Tipos de acordes.", "correct": false },
+        { "text": "Elementos visuales en partituras.", "correct": false },
+        { "text": "Notas naturales.", "correct": false },
+        { "text": "Alteraciones de las notas naturales.", "correct": true }
+      ]
+    },
+    {
+      "question": "¿Cuál es la importancia de la convención de 440 Hz en la música?",
+      "answers": [
+        { "text": "Garantiza una afinación universal.", "correct": true },
+        { "text": "Facilita la composición de canciones.", "correct": false },
+        { "text": "No tiene relevancia en la música.", "correct": false },
+        { "text": "Determina el tempo de una canción.", "correct": false }
+      ]
+    },
+    {
+      "question": "¿En qué consiste el método 1 para medir distancias en la música?",
+      "answers": [
+        { "text": "Utiliza grados de una escala musical.", "correct": false },
+        { "text": "Se basa en la numeración de octavas.", "correct": false },
+        { "text": "Mide tonos y semitonos.", "correct": true },
+        { "text": "Utiliza puntos de repetición en la guitarra.", "correct": false }
+      ]
+    },
+    {
+      "question": "¿Qué representan los puntos en el traste 12 de la guitarra?",
+      "answers": [
+        { "text": "Sostenidos y bemoles.", "correct": false },
+        { "text": "Puntos de repetición de la octava.", "correct": true },
+        { "text": "Intervalos de tonos y semitonos.", "correct": false },
+        { "text": "Notas naturales.", "correct": false }
+      ]
+    },
+    {
+      "question": "¿Cuál es la relación entre el estudio de la armonía y el oído musical?",
+      "answers": [
+        { "text": "El estudio de la armonía no tiene relación con el oído musical.", "correct": false },
+        { "text": "El oído musical no juega un papel importante en la armonía.", "correct": false },
+        { "text": "Ambos están estrechamente relacionados para interpretar sonidos y hacer cálculos.", "correct": true },
+        { "text": "La armonía se enfoca exclusivamente en la teoría musical.", "correct": false }
+      ]
+    },
+    {
+      "question": "¿Por qué se menciona la repetición del ciclo de notas cada 12 notas?",
+      "answers": [
+        { "text": "Para indicar la duración estándar de una canción.", "correct": false },
+        { "text": "Es una referencia a la octava en la escala musical occidental.", "correct": true },
+        { "text": "No tiene relevancia en la teoría musical.", "correct": false },
+        { "text": "Indica la cantidad de notas en una escala menor.", "correct": false }
+      ]
+    }
+  ],
+
+  "Armonia II": [
+    {
+      "question": "¿Con qué compara el autor la armonía al principio del texto?",
+      "answers": [
+        { "text": "Con la fuerza eléctrica", "correct": false },
+        { "text": "Con el magnetismo", "correct": false },
+        { "text": "Con la luz del sol", "correct": false },
+        { "text": "Con la fuerza de gravedad", "correct": true }
+      ]
+    },
+    {
+      "question": "¿En qué capa de armonía se encuentran las notas de la escala cromática?",
+      "answers": [
+        { "text": "Capa 1", "correct": true },
+        { "text": "Capa 2", "correct": false },
+        { "text": "Capa 3", "correct": false },
+        { "text": "Capa 4", "correct": false }
+      ]
+    },
+    {
+      "question": "¿Cuál es el intervalo que suma dos semitonos?",
+      "answers": [
+        { "text": "Segunda mayor", "correct": true },
+        { "text": "Tercera menor", "correct": false },
+        { "text": "Unísono", "correct": false },
+        { "text": "Cuarta justa", "correct": false }
+      ]
+    },
+    {
+      "question": "¿Cómo se forma una quinta justa?",
+      "answers": [
+        { "text": "Dos tonos de distancia", "correct": false },
+        { "text": "Tres tonos y medio de distancia", "correct": true },
+        { "text": "Dos tonos y medio de distancia", "correct": false },
+        { "text": "Tres tonos de distancia", "correct": false }
+      ]
+    },
+    {
+      "question": "Las tétradas agregan qué intervalo a las tríadas?",
+      "answers": [
+        { "text": "Introduce nuevos intervalos", "correct": false },
+        { "text": "Añaden la séptima y a veces la sexta", "correct": true },
+        { "text": "Explorar escalas cromáticas avanzadas", "correct": false },
+        { "text": "Discute la teoría de la gravedad en la música", "correct": false }
+      ]
+    },
+    {
+      "question": "¿Qué característica tiene la séptima menor y a qué tiende a resolver?",
+      "answers": [
+        { "text": "Es alegre y tiende a resolver hacia arriba", "correct": false },
+        { "text": "Es ambigua y tiende a resolver hacia la sexta mayor", "correct": false },
+        { "text": "Es triste y tiende a resolver hacia abajo", "correct": true },
+        { "text": "Es obscura y tiende a resolver hacia la cuarta justa", "correct": false }
+      ]
+    },
+    {
+      "question": "¿Cómo se toca una segunda menor en el bajo?",
+      "answers": [
+        { "text": "Saltar una cuerda y tres trastes hacia atrás", "correct": false },
+        { "text": "Tocar la nota siguiente en la misma cuerda", "correct": true },
+        { "text": "Moverse dos trastes hacia la derecha", "correct": false },
+        { "text": "Saltar dos cuerdas en la misma columna", "correct": false }
+      ]
+    },
+    {
+      "question": "¿Cómo se forma un acorde sus4?",
+      "answers": [
+        { "text": "1 3 5", "correct": false },
+        { "text": "1 2 5", "correct": false },
+        { "text": "1 4 5", "correct": true },
+        { "text": "1 b3 5", "correct": false }
+      ]
+    },
+    {
+      "question": "¿Cuál es el nombre del intervalo de tres tonos de distancia?",
+      "answers": [
+        { "text": "Quinta justa", "correct": false },
+        { "text": "Tritono", "correct": true },
+        { "text": "Sexta mayor", "correct": false },
+        { "text": "Séptima menor", "correct": false }
+      ]
+    },
+    {
+      "question": "¿Cuál es la característica de la tercera mayor?",
+      "answers": [
+        { "text": "Triste y pesimista", "correct": false },
+        { "text": "Consonante y optimista", "correct": true },
+        { "text": "Disonante y friccionante", "correct": false },
+        { "text": "Híbrida y ambigua", "correct": false }
+      ]
+    },
+    {
+      "question": "¿Cuál es la característica del tritono y qué ejemplo musical se menciona para identificarlo?",
+      "answers": [
+        { "text": "Textura híbrida; El Padrino", "correct": false },
+        { "text": "Tensión y fricción; Los Simpsons", "correct": true },
+        { "text": "Consonancia y reposo; Cumpleaños Feliz", "correct": false },
+        { "text": "Disonancia y ambigüedad; No sé tú", "correct": false }
+      ]
+    },
+    {
+      "question": "¿Cuántas notas distintas se necesitan para considerar un acorde?",
+      "answers": [
+        { "text": "Dos notas", "correct": false },
+        { "text": "Cuatro notas", "correct": false },
+        { "text": "Tres notas", "correct": true },
+        { "text": "Cinco notas", "correct": false }
+      ]
+    },
+    {
+      "question": "¿Cuál es el intervalo de dos tonos enteros de distancia?",
+      "answers": [
+        { "text": "Sexta mayor", "correct": false },
+        { "text": "Quinta justa", "correct": false },
+        { "text": "Cuarta justa", "correct": false },
+        { "text": "Tercera mayor", "correct": true }
+      ]
+    },
+    {
+      "question": "¿Qué acorde se forma al reemplazar la tercera con una 2da en una tríada?",
+      "answers": [
+        { "text": "Aumentada", "correct": false },
+        { "text": "Disminuida", "correct": false },
+        { "text": "Mayor 7sus4", "correct": false },
+        { "text": "Sus2", "correct": true }
+      ]
+    },
+    {
+      "question": "¿Cuál es la función de las séptimas en los acordes?",
+      "answers": [
+        { "text": "Añadir color, función, y ser guías tonales", "correct": true },
+        { "text": "Proporcionar estabilidad", "correct": false },
+        { "text": "Cambiar de tonalidad", "correct": false },
+        { "text": "Sustituir la tónica", "correct": false }
+      ]
+    },
+    {
+      "question": "¿Qué es una triada suspendida?",
+      "answers": [
+        { "text": "Un acorde sin quinta", "correct": false },
+        { "text": "Un acorde sin tercera", "correct": true },
+        { "text": "Un acorde sin séptima", "correct": false },
+        { "text": "Un acorde sin raíz", "correct": false }
+      ]
+    },
+    {
+      "question": "¿Cómo se llama el intervalo de 5 tonos de distancia?",
+      "answers": [
+        { "text": "Cuarta justa", "correct": false },
+        { "text": "Tritono", "correct": false },
+        { "text": "Quinta justa", "correct": false },
+        { "text": "Séptima menor", "correct": true }
+      ]
+    }
+  ],
+
+  "Armonia III": [
+    {
+      "question": "¿Cómo se escucha la música?",
+      "answers": [
+        { "text": "De arriba hacia abajo", "correct": false },
+        { "text": "Desde las notas agudas hacia las graves", "correct": false },
+        { "text": "Desde las notas más graves hacia las más agudas", "correct": true },
+        { "text": "En cualquier dirección", "correct": false }
+      ]
+    },
+    {
+      "question": "¿Qué indica una primera inversión en un acorde según la Lección 1?",
+      "answers": [
+        { "text": "La nota más grave es la tercera del acorde", "correct": true },
+        { "text": "La nota más grave es la tónica del acorde", "correct": false },
+        { "text": "La nota más grave es la quinta del acorde", "correct": false },
+        { "text": "La nota más grave es la séptima del acorde", "correct": false }
+      ]
+    },
+    {
+      "question": "¿Qué aspecto del acorde se aborda al hablar de voicing en la Lección 3?",
+      "answers": [
+        { "text": "La distribución de las notas en un acorde", "correct": true },
+        { "text": "El registro más grave del acorde", "correct": false },
+        { "text": "La posición de las manos al tocar un acorde", "correct": false },
+        { "text": "El tempo y ritmo del acorde", "correct": false }
+      ]
+    },
+    {
+      "question": "¿Cuál es el objetivo común de las inversiones al conectar acordes según la Lección 1?",
+      "answers": [
+        { "text": "Proporcionar una sensación de estabilidad armónica", "correct": false },
+        { "text": "Dar una transición suave y lineal en la armonía", "correct": true },
+        { "text": "Crear un sonido más rico y lleno", "correct": false },
+        { "text": "Enfatizar la tónica del acorde", "correct": false }
+      ]
+    },
+    {
+      "question": "¿Cómo se menciona que los bajistas tienen control en las inversiones?",
+      "answers": [
+        { "text": "Tocando las notas más agudas", "correct": false },
+        { "text": "Manipulando las notas superiores del acorde", "correct": false },
+        { "text": "Tocando la nota más grave", "correct": true },
+        { "text": "Utilizando cifrados de acordes", "correct": false }
+      ]
+    }
+  ],
+
+  "Armonia IV": [
+    {
+      "question": "¿Cómo se define una escala en términos de notas?",
+      "answers": [
+        { "text": "Una sucesión de acordes.", "correct": false },
+        { "text": "Una sucesión de ritmos.", "correct": false },
+        { "text": "Una sucesión de notas con distancias específicas entre ellas.", "correct": true }
+      ]
+    },
+    {
+      "question": "¿Qué sucede si se cambia una sola nota en una escala mayor?",
+      "answers": [
+        { "text": "Nada.", "correct": false },
+        { "text": "Se altera completamente la escala.", "correct": true },
+        { "text": "Solo afecta el ritmo.", "correct": false }
+      ]
+    },
+    {
+      "question": "¿Cuántas escalas principales mencionamos y cuáles son?",
+      "answers": [
+        { "text": "Dos escalas: Mayor y Menor.", "correct": false },
+        { "text": "Tres escalas: Mayor, Menor Melódica y Menor Armónica.", "correct": true },
+        { "text": "Cuatro escalas: Mayor, Menor, Mayor Melódica y Menor Armónica.", "correct": false }
+      ]
+    },
+    {
+      "question": "¿Qué son los modos y cuántos modos hay en total?",
+      "answers": [
+        { "text": "Son sub-escalas que se construyen a partir de las notas de la escala, hay 21 modos principales.", "correct": true },
+        { "text": "Son acordes en una tonalidad, hay 14 modos.", "correct": false },
+        { "text": "Son ritmos específicos, hay 7 modos.", "correct": false }
+      ]
+    },
+    {
+      "question": "¿Por qué se menciona que la escala menor armónica es especialmente útil para tocar flamenco o música del Medio Oriente?",
+      "answers": [
+        { "text": "Porque tiene notas más brillantes.", "correct": false },
+        { "text": "Porque es la escala más fácil de tocar.", "correct": false },
+        { "text": "Porque tiene características tonales específicas para esos estilos.", "correct": true }
+      ]
+    },
+    {
+      "question": "¿Cuáles son las notas características del Modo Jónico (escala mayor)?",
+      "answers": [
+        { "text": "1, 3, 5, b7.", "correct": false },
+        { "text": "1, 2, 3, 4, 5, 6, 7.", "correct": true },
+        { "text": "1, b3, 5, b7.", "correct": false }
+      ]
+    },
+    {
+      "question": "¿Qué se diferencia el Modo Dórico del Modo Jónico en términos de intervalos?",
+      "answers": [
+        { "text": "Dórico tiene una tercera mayor y una sexta menor.", "correct": false },
+        { "text": "Dórico tiene una tercera menor y una séptima menor.", "correct": true },
+        { "text": "Dórico tiene una tercera mayor y una quinta menor.", "correct": false }
+      ]
+    },
+    {
+      "question": "¿Cuál es la característica distintiva del Modo Frigio y en qué grado de la tonalidad se encuentra?",
+      "answers": [
+        { "text": "Su segunda menor, se encuentra en el tercer grado.", "correct": true },
+        { "text": "Su segunda mayor, se encuentra en el segundo grado.", "correct": false },
+        { "text": "Su cuarta aumentada, se encuentra en el cuarto grado.", "correct": false }
+      ]
+    },
+    {
+      "question": "¿Cuál es la nota característica del Modo Lidio y en qué grado de la tonalidad se encuentra?",
+      "answers": [
+        { "text": "2, se encuentra en el segundo grado.", "correct": false },
+        { "text": "#4, se encuentra en el cuarto grado.", "correct": true },
+        { "text": "b7, se encuentra en el séptimo grado.", "correct": false }
+      ]
+    },
+    {
+      "question": "¿Cómo se diferencia el Modo Mixolidio del Modo Jónico en términos de su séptima nota?",
+      "answers": [
+        { "text": "Mixolidio tiene una séptima menor en lugar de una séptima mayor.", "correct": true },
+        { "text": "Mixolidio tiene una séptima mayor en lugar de una séptima menor.", "correct": false },
+        { "text": "Mixolidio no tiene séptima nota.", "correct": false }
+      ]
+    },
+    {
+      "question": "¿Qué relación tienen los modos con la escala mayor?",
+      "answers": [
+        { "text": "Son sub-escalas que se construyen a partir de las notas de la escala mayor.", "correct": true },
+        { "text": "Son completamente independientes.", "correct": false },
+        { "text": "Son iguales a la escala mayor.", "correct": false }
+      ]
+    },
+    {
+      "question": "¿Por qué se compara la escala mayor con el mes de enero en la analogía proporcionada en el texto?",
+      "answers": [
+        { "text": "Porque enero es el primer mes del año.", "correct": false },
+        { "text": "Porque enero representa el comienzo, al igual que la escala mayor es el primer modo.", "correct": true },
+        { "text": "Porque enero tiene sostenidos y bemoles, similar a la escala mayor.", "correct": false }
+      ]
+    },
+    {
+      "question": "¿Cómo se inicia la escala mayor en términos de dedos al tocarla en la guitarra?",
+      "answers": [
+        { "text": "Con el dedo medio.", "correct": true },
+        { "text": "Con el dedo índice.", "correct": false },
+        { "text": "Con el dedo anular.", "correct": false }
+      ]
+    },
+    {
+      "question": "¿Cuál es el carácter tonal del Modo Eólico y en qué grado de la tonalidad se encuentra?",
+      "answers": [
+        { "text": "Es alegre y se encuentra en el quinto grado.", "correct": false },
+        { "text": "Es oscuro y se encuentra en el tercer grado.", "correct": false },
+        { "text": "Es triste y se encuentra en el sexto grado.", "correct": true }
+      ]
+    },
+    {
+      "question": "¿Cómo se clasifica el Modo Locrio en términos de su tercera y quinta nota?",
+      "answers": [
+        { "text": "Tiene tercera menor y quinta menor.", "correct": false },
+        { "text": "Tiene tercera menor y quinta disminuida.", "correct": true },
+        { "text": "Tiene tercera mayor y quinta disminuida.", "correct": false }
+      ]
+    },
+    {
+      "question": "¿Cuál es el enfoque recomendado para aprender los modos de memoria?",
+      "answers": [
+        { "text": "Secuencial de izquierda a derecha.", "correct": false },
+        { "text": "Por comparación, estudiando las diferencias entre ellos.", "correct": true },
+        { "text": "Cantándolos sin analizar las diferencias.", "correct": false }
+      ]
+    },
+    {
+      "question": "¿Qué característica distingue a los modos Jónico y Mixolidio en la comparación proporcionada en el texto?",
+      "answers": [
+        { "text": "Tienen la misma secuencia de notas.", "correct": false },
+        { "text": "Ambos son modos menores.", "correct": false },
+        { "text": "Se diferencian en un único intervalo.", "correct": true }
+      ]
+    },
+    {
+      "question": "¿En qué parte de la música se aplican las reglas de prohibición de notas y cómo determinamos las notas prohibidas en un contexto específico?",
+      "answers": [
+        { "text": "Solo en la improvisación.", "correct": false },
+        { "text": "En todas las facetas de la música, incluyendo la improvisación y composición.", "correct": true },
+        { "text": "Solo en la composición de melodías.", "correct": false }
+      ]
+    },
+    {
+      "question": "¿Cómo recomiendo practicar los modos en el instrumento?",
+      "answers": [
+        { "text": "Saltando entre tonalidades.", "correct": false },
+        { "text": "Solo sobre una misma tónica.", "correct": true },
+        { "text": "Ignorando la memorización.", "correct": false }
+      ]
+    },
+    {
+      "question": "En la Lección 3, ¿cuáles son las tres funciones dentro del espectro de la tonalidad mayor?",
+      "answers": [
+        { "text": "Tónica, Dominante, Subdominante.", "correct": true },
+        { "text": "Principal, Menor, Mayor.", "correct": false },
+        { "text": "Inestable, Estable, Intermedia.", "correct": false }
+      ]
+    }
+  ],
+
+  "Armonia V": [
+    {
+      "question": "¿Cuáles son las dos notas específicas que caracterizan a un acorde dominante según la Lección 1?",
+      "answers": [
+        { "text": "Tercera mayor y séptima menor.", "correct": true },
+        { "text": "Tercera mayor y quinta justa.", "correct": false },
+        { "text": "Tercera menor y séptima mayor.", "correct": false }
+      ]
+    },
+    {
+      "question": "En el contexto tonal, ¿cuál es el único dominante natural que aparece y cuál sería su acorde en la tonalidad de Do mayor?",
+      "answers": [
+        { "text": "Cuarto grado; C7.", "correct": false },
+        { "text": "Quinto grado; G7.", "correct": true },
+        { "text": "Tercer grado; E7.", "correct": false }
+      ]
+    },
+    {
+      "question": "¿Por qué un acorde con séptima mayor o tercera menor ya no se puede considerar un dominante según la Lección 1?",
+      "answers": [
+        { "text": "Porque pierde su flexibilidad armónica.", "correct": false },
+        { "text": "Porque se convierte en un acorde suspendido.", "correct": false },
+        { "text": "Porque estas notas no están presentes en la estructura de un dominante.", "correct": true }
+      ]
+    },
+    {
+      "question": "¿Cuál es la razón principal para estudiar armonía?",
+      "answers": [
+        { "text": "Para tocar sobre acordes diatónicos.", "correct": false },
+        { "text": "Para estar listo para tocar sobre cualquier acorde, entendiendo su origen y composición.", "correct": true },
+        { "text": "Para explorar diferentes grupos de acordes no diatónicos.", "correct": false }
+      ]
+    },
+    {
+      "question": "¿Qué tres reglas debe cumplir un acorde para considerarse dominante secundario según la Lección 2?",
+      "answers": [
+        { "text": "Ser un acorde mayor, tener la tónica diatónica y tener una cuarta justa en su resolución.", "correct": false },
+        { "text": "Ser un acorde dominante, tener la tónica diatónica y tener una cuarta justa diatónica en su resolución.", "correct": true },
+        { "text": "Ser un acorde menor, tener la tónica diatónica y tener una tercera mayor en su resolución.", "correct": false }
+      ]
+    },
+    {
+      "question": "En la tonalidad de Do mayor, ¿cuáles son los dominantes secundarios según la Lección 2 y cómo se les nombra?",
+      "answers": [
+        { "text": "C7, D7, E7, A7, G7; se les nombra II7, III7, IV7, VI7, VII7.", "correct": false },
+        { "text": "C7, D7, E7, F7, A7; se les nombra 'quinto del primero', 'quinto del segundo', 'quinto del tercero', 'quinto del cuarto', 'quinto del sexto' y 'quinto del séptimo', respectivamente.", "correct": true },
+        { "text": "C7, D7, E7, A7, B7; se les nombra 'quinto del segundo', 'quinto del tercero', 'quinto del cuarto', 'quinto del quinto' y 'quinto del sexto', respectivamente.", "correct": false }
+      ]
+    },
+    {
+      "question": "¿Cuál es la función principal de los dominantes secundarios?",
+      "answers": [
+        { "text": "Crear estabilidad armónica.", "correct": false },
+        { "text": "Crear tensión y resolver hacia acordes diatónicos.", "correct": true },
+        { "text": "Sustituir a los acordes diatónicos en una progresión.", "correct": false }
+      ]
+    },
+    {
+      "question": "¿Cuáles son los dos pasos para determinar qué modo tocar sobre un dominante secundario?",
+      "answers": [
+        { "text": "Analizar las tensiones y determinar la tónica.", "correct": false },
+        { "text": "Armar el acorde y luego el contexto con notas diatónicas.", "correct": true },
+        { "text": "Identificar la progresión armónica y seleccionar el modo correspondiente.", "correct": false }
+      ]
+    },
+    {
+      "question": "En el ejemplo de un A7 en la tonalidad de Do mayor, ¿por qué se elige el modo Mixolidio b13 en lugar de mixolidio?",
+      "answers": [
+        { "text": "Porque mixolidio introduce un F# que queda fuera de la tonalidad de Do mayor.", "correct": true },
+        { "text": "Porque b13 es una tensión más estable que mixolidio normal.", "correct": false },
+        { "text": "Porque mixolidio introduce una tónica adicional al acorde A7.", "correct": false }
+      ]
+    },
+    {
+      "question": "¿Qué excepciones hacen los dominantes en términos de notas de contexto?",
+      "answers": [
+        { "text": "Admiten b9 aun estando a un semitono delante de una nota de acorde, pero no admiten b13.", "correct": false },
+        { "text": "Admiten b13 aun teniendo una P5, pero no admiten b9.", "correct": false },
+        { "text": "Admiten b9 y b13 aun teniendo una P5, pero la 4ta justa sigue siendo prohibida.", "correct": true }
+      ]
+    },
+    {
+      "question": "Según la Lección sobre '¿Qué es un dominante secundario?', ¿por qué se dice que el dominante primario es diatónico y el resto de los dominantes no son diatónicos en la tonalidad de Do mayor?",
+      "answers": [
+        { "text": "Porque el dominante primario se construye solo con notas diatónicas.", "correct": true },
+        { "text": "Porque el dominante primario es el quinto grado, mientras que los otros dominantes requieren notas no diatónicas.", "correct": false },
+        { "text": "Porque el dominante primario tiene una resolución diferente en comparación con los otros dominantes.", "correct": false }
+      ]
+    },
+    {
+      "question": "¿Por qué se utilizan términos como 'quinto del segundo' en lugar de notación numérica (por ejemplo, II7) para referirse a los dominantes secundarios, según la Lección sobre '¿Qué es un dominante secundario?'?",
+      "answers": [
+        { "text": "Porque es una convención gramatical más clara.", "correct": false },
+        { "text": "Para enfatizar la resolución esperada del dominante secundario.", "correct": true },
+        { "text": "Porque la notación numérica puede llevar a confusiones con los grados diatónicos.", "correct": false }
+      ]
+    }
+  ],
+
+  "Armonia VI": [
+    {
+      "question": "¿Cuál es el factor más fundamental en un dominante que define su sonido característico, según la Lección sobre '¿Qué es un dominante sustituto?'",
+      "answers": [
+        { "text": "El tritono formado entre la tercera mayor y la séptima menor.", "correct": true },
+        { "text": "La quinta justa.", "correct": false },
+        { "text": "La novena aumentada.", "correct": false }
+      ]
+    },
+    {
+      "question": "En términos del reemplazo tritonal, ¿cómo se denominan los acordes que son intercambiables con un dominante debido a que comparten el mismo tritono?",
+      "answers": [
+        { "text": "Complementarios.", "correct": false },
+        { "text": "Sustitutos.", "correct": true },
+        { "text": "Paralelos.", "correct": false }
+      ]
+    },
+    {
+      "question": "¿Cómo se expresa un dominante sustituto en la notación utilizada en la Lección, considerando la resolución esperada?",
+      "answers": [
+        { "text": "“subV7/II”", "correct": false },
+        { "text": "“bII7”", "correct": true },
+        { "text": "“#II7”", "correct": false }
+      ]
+    },
+    {
+      "question": "Según la Lección sobre '¿Qué es un dominante sustituto?', ¿por qué se considera a todos los dominantes que no son primarios ni secundarios como sustitutos?",
+      "answers": [
+        { "text": "Porque comparten tensiones y colores tonales similares.", "correct": false },
+        { "text": "Porque los sustitutos son los reemplazos de los secundarios, más el primario.", "correct": true },
+        { "text": "Porque todos resuelven un semitono hacia atrás.", "correct": false }
+      ]
+    },
+    {
+      "question": "¿Qué función cumplen los dominantes sustitutos en la progresión armónica, según la explicación en '¿Qué es un dominante sustituto?'",
+      "answers": [
+        { "text": "Limitan las opciones y dan cohesión.", "correct": false },
+        { "text": "Permiten expandir las opciones y explorar tensiones y colores tonales.", "correct": true },
+        { "text": "No afectan significativamente la progresión armónica.", "correct": false }
+      ]
+    },
+    {
+      "question": "¿En qué géneros musicales se utilizan comúnmente los dominantes sustitutos, según la Lección?",
+      "answers": [
+        { "text": "Solo en jazz.", "correct": false },
+        { "text": "En una amplia variedad, incluyendo jazz, blues, música clásica y rock.", "correct": true },
+        { "text": "Exclusivamente en música clásica.", "correct": false }
+      ]
+    },
+    {
+      "question": "¿Por qué es importante considerar factores como la melodía al hacer un reemplazo tritonal, según la Lección sobre '¿Qué es un dominante sustituto?'",
+      "answers": [
+        { "text": "Porque la melodía no afecta la elección de sustitutos.", "correct": false },
+        { "text": "Porque podría haber conflictos con ciertas notas de contexto.", "correct": true },
+        { "text": "Porque la melodía siempre seguirá la resolución esperada.", "correct": false }
+      ]
+    },
+    {
+      "question": "¿Cuál es el modo utilizado para todos los dominantes sustitutos, según la Lección sobre 'Modos para los dominantes sustitutos'?",
+      "answers": [
+        { "text": "Dórico.", "correct": false },
+        { "text": "Mixolidio.", "correct": false },
+        { "text": "Lidio b7.", "correct": true }
+      ]
+    },
+    {
+      "question": "¿Qué escala se menciona brevemente como la fuente del modo Lidio b7 utilizado para los dominantes sustitutos, según la Lección sobre 'Modos para los dominantes sustitutos'?",
+      "answers": [
+        { "text": "Escala menor armónica.", "correct": false },
+        { "text": "Escala menor melódica.", "correct": true },
+        { "text": "Escala mayor.", "correct": false }
+      ]
+    },
+    {
+      "question": "¿Cómo se describe el modo Lidio b7 en términos de notas según la Lección?",
+      "answers": [
+        { "text": "1 9 3 #11 5 13 b7.", "correct": true },
+        { "text": "1 3 5 7 9 b5 b7.", "correct": false },
+        { "text": "1 3 5 b7.", "correct": false }
+      ]
+    },
+    {
+      "question": "¿Por qué se considera que los dominantes sustitutos mantienen la intención de resolución del acorde que sustituyen, según la explicación en 'Dominantes Sustitutos'?",
+      "answers": [
+        { "text": "Porque resuelven una cuarta ascendente.", "correct": false },
+        { "text": "Porque comparten tensiones similares.", "correct": false },
+        { "text": "Porque resuelven un semitono hacia atrás, igual que el acorde original.", "correct": true }
+      ]
+    },
+    {
+      "question": "¿Qué se menciona como una recomendación para facilitar la memorización de los dominantes, según la Lección sobre 'Modos para los Dominantes Sustitutos'?",
+      "answers": [
+        { "text": "Imprimir la tabla de las 12 dominantes y colocarla en un lugar visible.", "correct": true },
+        { "text": "Utilizar tarjetas de memoria.", "correct": false },
+        { "text": "Estudiar los modos diatónicos en lugar de los modos para los dominantes sustitutos.", "correct": false }
+      ]
+    }
+  ],
+
+  "Armonia VII": [
+    {
+      "question": "¿Cuántos modos diferentes se mencionan que existen en total entre las tres principales escalas (mayor, menor melódica y menor armónica)?",
+      "answers": [
+        { "text": "21", "correct": true },
+        { "text": "18", "correct": false },
+        { "text": "14", "correct": false }
+      ]
+    },
+    {
+      "question": "Según la introducción, ¿por qué es crucial conocer los modos de la escala mayor antes de avanzar en el estudio de los modos de la escala menor melódica?",
+      "answers": [
+        { "text": "Porque los modos de la escala mayor son más importantes.", "correct": false },
+        { "text": "Porque los modos de la escala menor melódica son modificaciones de los modos de la escala mayor.", "correct": true },
+        { "text": "Porque los modos de la escala menor melódica son más simples.", "correct": false }
+      ]
+    },
+    {
+      "question": "¿Cuál es la diferencia principal entre la escala menor melódica y el modo menor melódico?",
+      "answers": [
+        { "text": "La escala menor melódica tiene una séptima mayor.", "correct": false },
+        { "text": "La escala menor melódica tiene una sexta mayor.", "correct": true },
+        { "text": "No hay diferencia; ambos términos se utilizan indistintamente.", "correct": false }
+      ]
+    },
+    {
+      "question": "En el 'Modo Menor Melódico', ¿qué tipo de acordes se aplica principalmente este modo?",
+      "answers": [
+        { "text": "Acordes m7.", "correct": false },
+        { "text": "Acordes m6.", "correct": true },
+        { "text": "Acordes m7b5.", "correct": false }
+      ]
+    },
+    {
+      "question": "¿Cuál es la característica distintiva del 'Modo Dórico b2'?",
+      "answers": [
+        { "text": "Segunda mayor.", "correct": false },
+        { "text": "Segunda menor y sexta mayor.", "correct": true },
+        { "text": "Sexta mayor.", "correct": false }
+      ]
+    },
+    {
+      "question": "¿Por qué se menciona que el 'Modo Dórico b2' es considerado el modo menos útil de la escala menor melódica?",
+      "answers": [
+        { "text": "Porque su sonido es inarmónico.", "correct": false },
+        { "text": "Porque su identidad es difícil de establecer en contextos tonales comunes.", "correct": true },
+        { "text": "Porque es difícil de reconocer.", "correct": false }
+      ]
+    },
+    {
+      "question": "¿En qué tipo de acordes se utiliza principalmente el 'Modo Lidio #5'?",
+      "answers": [
+        { "text": "Acordes m7.", "correct": false },
+        { "text": "Acordes maj7#5.", "correct": true },
+        { "text": "Acordes 7alt.", "correct": false }
+      ]
+    },
+    {
+      "question": "¿Cuál es la recomendación importante antes de usar el 'Modo Lidio #5'?",
+      "answers": [
+        { "text": "Confirmar la presencia de la tercera menor.", "correct": false },
+        { "text": "Confirmar la presencia de la séptima mayor.", "correct": true },
+        { "text": "Confirmar la presencia de la cuarta aumentada.", "correct": false }
+      ]
+    },
+    {
+      "question": "¿Cuándo se utiliza el 'Modo Lidio b7' según la explicación dada?",
+      "answers": [
+        { "text": "En acordes menores.", "correct": false },
+        { "text": "Exclusivamente en dominantes sustitutos.", "correct": true },
+        { "text": "En acordes maj7.", "correct": false }
+      ]
+    },
+    {
+      "question": "¿En qué contexto se utiliza principalmente el 'Modo Mixolidio b13'?",
+      "answers": [
+        { "text": "En acordes menores.", "correct": false },
+        { "text": "En acordes 7alt.", "correct": false },
+        { "text": "En acordes V7/II.", "correct": true }
+      ]
+    },
+    {
+      "question": "¿Cómo se utiliza el 'Modo Superlocrio' en la secuencia II-V-I mixa según la lección?",
+      "answers": [
+        { "text": "En el acorde V7/II.", "correct": false },
+        { "text": "En el acorde II.", "correct": true },
+        { "text": "En el acorde I.", "correct": false }
+      ]
+    },
+    {
+      "question": "¿En qué tipo de acordes se aplica el 'Modo Alterado'?",
+      "answers": [
+        { "text": "En acordes mayores.", "correct": false },
+        { "text": "Exclusivamente en acordes alterados (7alt).", "correct": true },
+        { "text": "En acordes menores.", "correct": false }
+      ]
+    },
+    {
+      "question": "En el 'Modo Lidio #5', ¿qué notas forman el acorde aumentado en cuatro capas?",
+      "answers": [
+        { "text": "1 3 #5 7", "correct": true },
+        { "text": "1 3 #5 b7", "correct": false },
+        { "text": "1 3 5 b7 9", "correct": false }
+      ]
+    },
+    {
+      "question": "En el 'Modo Superlocrio', ¿cuál es la característica distintiva en comparación con el 'Locrio'?",
+      "answers": [
+        { "text": "Tercera mayor.", "correct": false },
+        { "text": "Novena natural.", "correct": true },
+        { "text": "Sexta mayor.", "correct": false }
+      ]
+    },
+    {
+      "question": "¿Qué característica distingue al 'Modo Mixolidio b13' de otros modos?",
+      "answers": [
+        { "text": "La presencia de la novena natural.", "correct": false },
+        { "text": "La b13 en lugar de la 13 natural.", "correct": true },
+        { "text": "La ausencia de la tercera menor.", "correct": false }
+      ]
+    }
+  ],
+
+  "Armonia VIII": [
+    {
+      "question": "¿Qué diferencia hay entre una 'novena' y una 'segunda' según la regla de las novenas?",
+      "answers": [
+        { "text": "La novena siempre es más grave que la segunda.", "correct": false },
+        { "text": "La segunda es parte del acorde, y la novena 'de contexto' es opcional.", "correct": true },
+        { "text": "Ambas son iguales en cualquier contexto.", "correct": false }
+      ]
+    },
+    {
+      "question": "¿En qué tipos de acordes dominantes se puede aplicar la 'regla de las novenas'?",
+      "answers": [
+        { "text": "Solo en acordes con novena natural.", "correct": false },
+        { "text": "En acordes dominantes con novena bemol, natural o aumentada.", "correct": true },
+        { "text": "En acordes sin tensiones adicionales.", "correct": false }
+      ]
+    },
+    {
+      "question": "Según la 'regla de las novenas', ¿qué sucede si hay una b9 en un acorde dominante?",
+      "answers": [
+        { "text": "La #9 está siempre disponible, y la 9N está prohibida.", "correct": true },
+        { "text": "La #9 está prohibida, y la 9N está siempre disponible.", "correct": false },
+        { "text": "Las b9 y #9 están 100% prohibidas.", "correct": false }
+      ]
+    },
+    {
+      "question": "En una secuencia de II-V mayor, ¿qué modo se utiliza para el II si no importa la tonalidad?",
+      "answers": [
+        { "text": "Mixolidio.", "correct": false },
+        { "text": "Dórico.", "correct": true }
+      ]
+    },
+    {
+      "question": "¿Cómo se llama la progresión entre un acorde m7 y un acorde dominante que se desplaza por cuartas?",
+      "answers": [
+        { "text": "Progresión menor.", "correct": false },
+        { "text": "Secuencia de V-I.", "correct": false },
+        { "text": "II-V.", "correct": true }
+      ]
+    },
+    {
+      "question": "En el contexto de la 'escala tonal', ¿dónde se usa específicamente esta escala?",
+      "answers": [
+        { "text": "En acordes menores con novena natural.", "correct": false },
+        { "text": "En acordes dominantes aumentados.", "correct": false },
+        { "text": "En acordes menores con séptima menor.", "correct": true }
+      ]
+    },
+    {
+      "question": "¿Cuál es la característica distintiva de la 'escala semitono-tono'?",
+      "answers": [
+        { "text": "Su uso exclusivo en acordes mayores.", "correct": false },
+        { "text": "La presencia de una tercera aumentada.", "correct": false },
+        { "text": "La estructura repetitiva de intervalos.", "correct": true }
+      ]
+    },
+    {
+      "question": "¿En qué tipo de acordes dominantes se reserva la 'escala semitono-tono'?",
+      "answers": [
+        { "text": "Dominantes suspendidos.", "correct": false },
+        { "text": "Dominantes con 13 y b9.", "correct": true },
+        { "text": "Dominantes con b5 y #9.", "correct": false }
+      ]
+    },
+    {
+      "question": "¿Cuál es el modo del 'Modo I' de la escala menor armónica?",
+      "answers": [
+        { "text": "Menor armónico.", "correct": true },
+        { "text": "Menor melódico.", "correct": false },
+        { "text": "Mixolidio b9b13.", "correct": false }
+      ]
+    },
+    {
+      "question": "¿Cómo se caracteriza el 'Modo I' de la escala menor armónica en términos de acordes derivados?",
+      "answers": [
+        { "text": "Deriva en acorde menor.", "correct": false },
+        { "text": "Deriva en un acorde mayor séptima (maj7).", "correct": true },
+        { "text": "Deriva en acorde mayor.", "correct": false }
+      ]
+    },
+    {
+      "question": "¿Dónde se aplicaría el 'Modo V: Mixolidio b9b13' de manera característica?",
+      "answers": [
+        { "text": "En acordes menores.", "correct": false },
+        { "text": "En acordes mayores.", "correct": false },
+        { "text": "En dominantes secundarios (V7/II, V7/VI, V7/V).", "correct": true }
+      ]
+    },
+    {
+      "question": "¿Qué es una 'nota pedal' y cuál es su función principal en la armonía?",
+      "answers": [
+        { "text": "Una nota que siempre está presente en la melodía principal.", "correct": false },
+        { "text": "Una nota constante en el bajo mientras los acordes cambian encima.", "correct": true },
+        { "text": "Una nota que indica el cambio de tonalidad.", "correct": false }
+      ]
+    },
+    {
+      "question": "¿Cuál es la secuencia de intervalos de la 'escala semitono-tono'?",
+      "answers": [
+        { "text": "1 b2 b3 #4 5 13 b7.", "correct": true },
+        { "text": "1 b3 b5 b7 7.", "correct": false },
+        { "text": "1 2 b3 4 b5 b13 b7 7.", "correct": false }
+      ]
+    },
+    {
+      "question": "Según la 'regla de las novenas', ¿qué novenas están prohibidas automáticamente si hay una N9 en un acorde dominante?",
+      "answers": [
+        { "text": "b9 y #9.", "correct": true },
+        { "text": "#9.", "correct": false },
+        { "text": "b9.", "correct": false }
+      ]
+    },
+    {
+      "question": "En una secuencia de II-V mixto, ¿cómo se caracteriza el II respecto al modo utilizado?",
+      "answers": [
+        { "text": "Siempre será locrio.", "correct": false },
+        { "text": "Puede ser superlocrio.", "correct": true },
+        { "text": "Siempre será dórico.", "correct": false }
+      ]
+    },
+    {
+      "question": "¿Cómo se caracteriza la 'escala tonal' en términos de número de notas?",
+      "answers": [
+        { "text": "Escala de 7 notas.", "correct": false },
+        { "text": "Escala de 6 notas.", "correct": false },
+        { "text": "Escala de 8 notas.", "correct": true }
+      ]
+    },
+    {
+      "question": "¿Cuál es la diferencia clave entre la 'escala semitono-tono' y la 'escala tono-semitono'?",
+      "answers": [
+        { "text": "La presencia de la tercera mayor.", "correct": false },
+        { "text": "El orden de los intervalos.", "correct": true },
+        { "text": "El número de notas en la escala.", "correct": false }
+      ]
+    },
+    {
+      "question": "¿En qué situaciones se reserva la 'escala tono-semitono'?",
+      "answers": [
+        { "text": "En acordes mayores.", "correct": false },
+        { "text": "En acordes suspendidos.", "correct": false },
+        { "text": "En acordes disminuidos auxiliares.", "correct": true }
+      ]
+    }
+  ],
+
+  "Armonia IX": [
+    {
+      "question": "Según la introducción, ¿cuál es un requisito importante para los estudiantes que participan en el curso de Armonía IX?",
+      "answers": [
+        { "text": "Conocer la escala menor melódica y sus modos.", "correct": false },
+        { "text": "Estar cómodo con todo el contenido explicado hasta este momento.", "correct": true },
+        { "text": "Memorizar los dominantes secundarios y sustitutos.", "correct": false }
+      ]
+    },
+    {
+      "question": "¿Cómo se describe el proceso del intercambio modal en términos de 'robar' acordes?",
+      "answers": [
+        { "text": "Se toman acordes de la tonalidad paralela para usar en la tonalidad principal.", "correct": true },
+        { "text": "Se toman acordes de la tonalidad principal para usar en la tonalidad paralela.", "correct": false },
+        { "text": "Se intercambian acordes entre la tonalidad principal y la tonalidad paralela al azar.", "correct": false }
+      ]
+    },
+    {
+      "question": "¿Cuál es la función de los 'engranajes' en el intercambio modal?",
+      "answers": [
+        { "text": "Representan acordes fijos que no cambian.", "correct": false },
+        { "text": "Son los acordes de la tonalidad, y los de la tonalidad paralela intercambiable.", "correct": true },
+        { "text": "Son acordes que actúan como embajadores de los modos.", "correct": false }
+      ]
+    },
+    {
+      "question": "En el contexto del intercambio modal, ¿por qué se menciona que es esencial no solo memorizar sino también comprender los modos?",
+      "answers": [
+        { "text": "Para tocar las escalas de manera precisa.", "correct": false },
+        { "text": "Para determinar cuáles modos se pueden intercambiar.", "correct": false },
+        { "text": "Para entender la relación entre los modos y los acordes.", "correct": true }
+      ]
+    },
+    {
+      "question": "¿Cuáles son las restricciones para que un acorde sea considerado de intercambio modal?",
+      "answers": [
+        { "text": "Debe ser parte de una secuencia de acordes y no anclarse en la tonalidad original.", "correct": false },
+        { "text": "Debe poder funcionar de manera independiente, anclándose en la tonalidad y con preferencia diatónica original.", "correct": true },
+        { "text": "Debe estar presente en todas las tonalidades paralelas.", "correct": false }
+      ]
+    },
+    {
+      "question": "¿Cuál es la importancia de comprender el modo adecuado para cada acorde en el intercambio modal?",
+      "answers": [
+        { "text": "Ayuda a mantener el contexto musical intacto.", "correct": false },
+        { "text": "Permite usar el intercambio modal de manera más efectiva.", "correct": false },
+        { "text": "a y b son correctas.", "correct": true }
+      ]
+    },
+    {
+      "question": "¿Cuáles son los tres acordes de intercambio modal adicionales que se mencionan?",
+      "answers": [
+        { "text": "Cmaj7, Cm6, Fm6.", "correct": true },
+        { "text": "G Dórico, G Frigio, G Eólico.", "correct": false },
+        { "text": "C Jónico, C Frigio, C Eólico.", "correct": false }
+      ]
+    },
+    {
+      "question": "¿Cuál es el propósito de usar la expresión 'intercambio modal' en la armonía musical?",
+      "answers": [
+        { "text": "Para introducir acordes nuevos en la tonalidad principal.", "correct": false },
+        { "text": "Para explorar diferentes colores armónicos y variar la armonía.", "correct": true },
+        { "text": "Para restringir la variedad de acordes en una progresión.", "correct": false }
+      ]
+    },
+    {
+      "question": "¿Cuál es la razón principal para que un acorde de intercambio modal sea descartado según las reglas de acorde y contexto?",
+      "answers": [
+        { "text": "Porque no puede mantenerse por sí solo.", "correct": true },
+        { "text": "Porque no es parte de una secuencia de acordes.", "correct": false },
+        { "text": "Porque no respeta la escala del momento.", "correct": false }
+      ]
+    },
+    {
+      "question": "¿Cómo se explica el uso de la expresión 'robar' acordes en el contexto del intercambio modal?",
+      "answers": [
+        { "text": "Significa adquirir acordes sin permiso.", "correct": false },
+        { "text": "Significa tomar prestados acordes de otra tonalidad.", "correct": true },
+        { "text": "Significa cambiar acordes entre diferentes tonalidades.", "correct": false }
+      ]
+    },
+    {
+      "question": "¿Por qué se menciona que C jónico es considerado un 'engranaje fijo' en el contexto del curso?",
+      "answers": [
+        { "text": "Porque representa la tonalidad principal.", "correct": true },
+        { "text": "Porque es un modo que no se puede intercambiar.", "correct": false },
+        { "text": "Porque es un acorde esencial para la progresión.", "correct": false }
+      ]
+    }
+  ],
+
+  "Bajo I": [
+    {
+      "question": "¿Qué aborda el curso de anatomía que es aplicable tanto al bajo como a la guitarra?",
+      "answers": [
+        { "text": "Técnicas de improvisación", "correct": false },
+        { "text": "Historia de la música", "correct": false },
+        { "text": "Aspectos anatómicos del instrumento", "correct": true },
+        { "text": "Estilos de bajo eléctrico", "correct": false }
+      ]
+    },
+    {
+      "question": "¿Cuáles son algunos de los tipos de bajo mencionados en la lección 1?",
+      "answers": [
+        { "text": "Violín y viola", "correct": false },
+        { "text": "Eléctrico, contrabajo y bajo acústico", "correct": true },
+        { "text": "Guitarra y banjo", "correct": false },
+        { "text": "Trompeta y saxofón", "correct": false }
+      ]
+    },
+    {
+      "question": "¿Cómo se ajusta la acción de las cuerdas en un bajo según la lección 3?",
+      "answers": [
+        { "text": "Con pastillas magnéticas", "correct": false },
+        { "text": "A través de un tubo de metal llamado alma", "correct": true },
+        { "text": "Girando las clavijas", "correct": false },
+        { "text": "Golpeando el cuerpo del bajo", "correct": false }
+      ]
+    },
+    {
+      "question": "¿Cuál es un posible beneficio de tener una acción alta en el bajo, según la lección 3?",
+      "answers": [
+        { "text": "Mayor facilidad para tocar acordes complejos", "correct": false },
+        { "text": "Tono más cálido y redondo", "correct": true },
+        { "text": "Menos probabilidad de trasteos", "correct": false },
+        { "text": "Mayor comodidad para el bajista", "correct": false }
+      ]
+    },
+    {
+      "question": "¿Qué componente define el tono en un bajo, según la lección 4?",
+      "answers": [
+        { "text": "Micrófonos", "correct": true },
+        { "text": "Potenciómetros", "correct": false },
+        { "text": "Clavijas", "correct": false }
+      ]
+    },
+    {
+      "question": "¿Qué diferencia hay entre micrófonos pasivos y activos según la lección 4?",
+      "answers": [
+        { "text": "Los pasivos tienen un sonido más moderno", "correct": false },
+        { "text": "Los activos requieren batería y ofrecen más flexibilidad en ecualización", "correct": true },
+        { "text": "Los pasivos tienen más controles de tono", "correct": false },
+        { "text": "Los activos son más ligeros", "correct": false }
+      ]
+    },
+    {
+      "question": "¿Qué función desempeñan los potenciómetros en un bajo, según la lección 4?",
+      "answers": [
+        { "text": "Mantener la afinación", "correct": false },
+        { "text": "Controlar el volumen y tono", "correct": true },
+        { "text": "Ajustar la altura de las cuerdas", "correct": false },
+        { "text": "Generar armónicos", "correct": false }
+      ]
+    },
+    {
+      "question": "¿Qué se recomienda hacer antes de tocar para mantener la estabilidad en la afinación, según la lección 5?",
+      "answers": [
+        { "text": "Cambiar las cuerdas", "correct": false },
+        { "text": "Limpiar el cuerpo del bajo", "correct": false },
+        { "text": "Ajustar la acción", "correct": false },
+        { "text": "Afinar siempre el bajo", "correct": true }
+      ]
+    },
+    {
+      "question": "¿Qué tipos de cuerdas se mencionan en la lección 5?",
+      "answers": [
+        { "text": "Cuerdas largas y cortas", "correct": false },
+        { "text": "Flats y rounds", "correct": true },
+        { "text": "Gruesas y delgadas", "correct": false },
+        { "text": "Metálicas y de nylon", "correct": false }
+      ]
+    },
+    {
+      "question": "Según la lección 5, ¿cómo se pueden evitar problemas al afinar el bajo?",
+      "answers": [
+        { "text": "Tocando fuerte las cuerdas", "correct": false },
+        { "text": "Usando solo armónicos", "correct": false },
+        { "text": "Ajustando hacia abajo", "correct": false },
+        { "text": "Evitando llegar a la nota desde arriba", "correct": true }
+      ]
+    },
+    {
+      "question": "¿Cuál es la afinación estándar para un bajo de 4 cuerdas, según la lección 5?",
+      "answers": [
+        { "text": "B-E-A-D-G", "correct": false },
+        { "text": "C-G-D-A-E", "correct": false },
+        { "text": "E-A-D-G", "correct": true },
+        { "text": "D-G-C-F-A", "correct": false }
+      ]
+    },
+    {
+      "question": "¿Qué efecto tiene el cambio a modo pasivo en un bajo activo, según la lección 4?",
+      "answers": [
+        { "text": "Aumenta la flexibilidad en ecualización.", "correct": false },
+        { "text": "Convierte el control de volumen en un control de tono.", "correct": true },
+        { "text": "Desactiva completamente el bajo.", "correct": false },
+        { "text": "Mejora la calidad del sonido.", "correct": false }
+      ]
+    },
+    {
+      "question": "¿Cuál es una contra de la acción baja en un bajo, según la lección?",
+      "answers": [
+        { "text": "Facilita la digitación.", "correct": false },
+        { "text": "Puede causar ruidos indeseados.", "correct": true },
+        { "text": "Proporciona tono más cálido.", "correct": false },
+        { "text": "Afecta positivamente la entonación.", "correct": false }
+      ]
+    },
+    {
+      "question": "¿Qué función tienen los potes en un bajo,?",
+      "answers": [
+        { "text": "Ajustar la acción de las cuerdas.", "correct": false },
+        { "text": "Controlar el volumen y el tono.", "correct": true },
+        { "text": "Sujetar las cuerdas al cuerpo.", "correct": false },
+        { "text": "Cambiar la configuración de micrófonos.", "correct": false }
+      ]
+    },
+    {
+      "question": "¿Qué tipo de configuración de micrófonos se menciona para el Precision Bass,?",
+      "answers": [
+        { "text": "Simple.", "correct": false },
+        { "text": "Dividida.", "correct": true },
+        { "text": "Doble.", "correct": false },
+        { "text": "Triple.", "correct": false }
+      ]
+    },
+    {
+      "question": "¿Qué se recomienda usar para obtener los mejores resultados al afinar un bajo, según la lección de cuerdas, clavijero y afinación?",
+      "answers": [
+        { "text": "Armónicos.", "correct": false },
+        { "text": "Tocar fuerte las cuerdas.", "correct": false },
+        { "text": "Un compañero de banda.", "correct": false },
+        { "text": "Afinador electrónico.", "correct": true }
+      ]
+    },
+    {
+      "question": "¿Cuál es una característica de los bajos de 5 cuerdas en términos de afinación,?",
+      "answers": [
+        { "text": "Afinación estándar B-E-A-D-G.", "correct": true },
+        { "text": "Agregan una cuerda más grave (B) o más aguda (C).", "correct": false },
+        { "text": "Tienen solo cuerdas largas.", "correct": false },
+        { "text": "Vienen con cuerdas flats.", "correct": false }
+      ]
+    },
+    {
+      "question": "¿Qué tipo de madera para el cuello se asocia con un tono oscuro, según la lección?",
+      "answers": [
+        { "text": "Maple.", "correct": false },
+        { "text": "Nogal.", "correct": false },
+        { "text": "Palisandro.", "correct": true },
+        { "text": "Cedro.", "correct": false }
+      ]
+    },
+    {
+      "question": "¿Cuál es un 'PRO' de los bajos con cuerpo hueco o semi-hueco,?",
+      "answers": [
+        { "text": "Menos versátiles.", "correct": false },
+        { "text": "Tono más cálido y acústico.", "correct": true },
+        { "text": "Mejor respuesta a los pedales de efectos.", "correct": false },
+        { "text": "Mayor sustain.", "correct": false }
+      ]
+    }
+  ],
+
+  "Bajo II": [
+    {
+      "question": "¿Qué significa tener buena técnica al tocar un instrumento?",
+      "answers": [
+        { "text": "Tocar rápidamente", "correct": false },
+        { "text": "Dominar la parte mecánica para lograr la mejor interpretación", "correct": true },
+        { "text": "Improvisar constantemente", "correct": false }
+      ]
+    },
+    {
+      "question": "¿Por qué es importante tener buena técnica al tocar el bajo?",
+      "answers": [
+        { "text": "Solo por estética", "correct": false },
+        { "text": "Para gastar la mayor energía posible", "correct": false },
+        { "text": "Para lograr la mejor interpretación y conexión entre ideas y música", "correct": true }
+      ]
+    },
+    {
+      "question": "¿Cómo afecta la falta de dominio técnico en un instrumento?",
+      "answers": [
+        { "text": "No afecta en absoluto", "correct": false },
+        { "text": "Distorsiona la interpretación musical y afecta la calidad del sonido", "correct": true },
+        { "text": "Mejora la calidad del sonido", "correct": false }
+      ]
+    },
+    {
+      "question": "¿Cuál es la analogía entre la técnica y el atleta en el texto?",
+      "answers": [
+        { "text": "La técnica es como la condición física para el atleta", "correct": true },
+        { "text": "La técnica es irrelevante para un músico", "correct": false },
+        { "text": "La técnica y la condición física son independientes", "correct": false }
+      ]
+    },
+    {
+      "question": "¿Cuál es el objetivo principal de la técnica?",
+      "answers": [
+        { "text": "Limpiar el canal que conecta ideas con la música", "correct": true },
+        { "text": "Tocar como una licuadora", "correct": false },
+        { "text": "Ser fanático de la técnica en sí misma", "correct": false }
+      ]
+    },
+    {
+      "question": "¿Qué consejo se da sobre la postura al tocar el bajo?",
+      "answers": [
+        { "text": "No importa la postura, lo importante es el sonido", "correct": false },
+        { "text": "Mantener una postura natural para evitar dolores", "correct": true },
+        { "text": "Inclinar el bajo hacia adelante para mejorar la técnica", "correct": false }
+      ]
+    },
+    {
+      "question": "¿Qué significa que la mano derecha es 'verdaderamente una mano libre'?",
+      "answers": [
+        { "text": "Debe seguir reglas estrictas", "correct": false },
+        { "text": "Hay muchas formas correctas de tocar", "correct": true },
+        { "text": "Solo puede usar el pulgar para tocar", "correct": false }
+      ]
+    },
+    {
+      "question": "¿Qué se recomienda en cuanto a la silla al tocar el bajo durante periodos largos?",
+      "answers": [
+        { "text": "Una silla con brazos para mayor comodidad", "correct": false },
+        { "text": "Una silla incómoda para fortalecer la postura", "correct": false },
+        { "text": "Una silla cómoda sin brazos y con altura ajustable", "correct": true }
+      ]
+    },
+    {
+      "question": "¿Cómo se aconseja abordar el dolor en las manos al tocar?",
+      "answers": [
+        { "text": "Ignorarlo y seguir tocando", "correct": false },
+        { "text": "Diferenciar entre dolor muscular y en tendones/articulaciones, consultando con un médico si es necesario", "correct": true },
+        { "text": "Detener completamente la práctica musical", "correct": false }
+      ]
+    },
+    {
+      "question": "¿Cuál es el enfoque recomendado para estudiar técnica?",
+      "answers": [
+        { "text": "Practicar justo al nivel necesario para los proyectos", "correct": false },
+        { "text": "Practicar técnica por debajo del nivel necesario para los proyectos", "correct": false },
+        { "text": "Practicar técnica por encima del nivel necesario para lograr una performance limpia y clara", "correct": true }
+      ]
+    },
+    {
+      "question": "¿Cuál es la función principal de la mano izquierda al tocar el bajo según la introducción?",
+      "answers": [
+        { "text": "Crear notas", "correct": false },
+        { "text": "Pulsar los trastes en el cuello del bajo", "correct": true },
+        { "text": "Tocar las cuerdas", "correct": false }
+      ]
+    },
+    {
+      "question": "¿Qué responsabilidad tiene la mano izquierda además de presionar las notas?",
+      "answers": [
+        { "text": "Generar tono", "correct": false },
+        { "text": "Mantener la mano relajada", "correct": false },
+        { "text": "Evitar que suenen notas y cuerdas accidentalmente", "correct": true }
+      ]
+    },
+    {
+      "question": "¿Qué se menciona como clave para mejorar la técnica en el bajo?",
+      "answers": [
+        { "text": "Utilizar el pulgar correctamente", "correct": false },
+        { "text": "Práctica constante y paciencia", "correct": true },
+        { "text": "Evitar presionar las notas demasiado fuerte", "correct": false }
+      ]
+    },
+    {
+      "question": "¿Cuál es la función del pulgar en la técnica de la mano izquierda?",
+      "answers": [
+        { "text": "Ayudar a presionar, especialmente al tocar con cejilla", "correct": true },
+        { "text": "No tiene una función específica", "correct": false },
+        { "text": "Mantenerse alejado de los demás dedos", "correct": false }
+      ]
+    },
+    {
+      "question": "¿Cómo se describe el movimiento en bloque en la sección 'MOVIMIENTO EN BLOQUE'?",
+      "answers": [
+        { "text": "Mover la mano y los dedos de manera independiente", "correct": false },
+        { "text": "Mover la mano como una unidad compuesta por los cuatro dedos", "correct": true },
+        { "text": "No es necesario mover la mano en absoluto", "correct": false }
+      ]
+    },
+    {
+      "question": "¿Por qué es importante no retirar los dedos del bajo una vez que se tocan las notas?",
+      "answers": [
+        { "text": "Para evitar el dolor en los dedos", "correct": false },
+        { "text": "Para malgastar energía", "correct": false },
+        { "text": "Para estar listos para volver a tocar", "correct": true }
+      ]
+    },
+    {
+      "question": "¿Qué significa aprovechar la energía en términos de técnica en el bajo?",
+      "answers": [
+        { "text": "Mover la mano lo máximo posible", "correct": false },
+        { "text": "No malgastar energía y mantener los dedos listos para tocar", "correct": true },
+        { "text": "Retirar los dedos del bajo después de tocar", "correct": false }
+      ]
+    },
+    {
+      "question": "¿Cómo se sugiere realizar el ejercicio para practicar la mano derecha en el aire?",
+      "answers": [
+        { "text": "Alternar el dedo índice y medio", "correct": true },
+        { "text": "Alternar el pulgar y el meñique", "correct": false },
+        { "text": "Focalizarse solo en el dedo medio", "correct": false }
+      ]
+    },
+    {
+      "question": "¿Cuál es un concepto clave para la mano izquierda al tocar el bajo correctamente?",
+      "answers": [
+        { "text": "Desviar el codo hacia un lado", "correct": false },
+        { "text": "Mantener la muñeca levantada", "correct": false },
+        { "text": "Tener trastes paralelos y el pulgar centrado entre los dedos", "correct": true }
+      ]
+    },
+    {
+      "question": "¿Cuál es la importancia del sistema de apoyo?",
+      "answers": [
+        { "text": "Fortalecer solo el dedo meñique", "correct": false },
+        { "text": "Ayudar a los dedos débiles a trabajar de manera más efectiva", "correct": true },
+        { "text": "Ignorar por completo la debilidad de los dedos", "correct": false }
+      ]
+    },
+    {
+      "question": "¿Qué se menciona como fundamental en el bajo en relación con las notas?",
+      "answers": [
+        { "text": "Tocar notas aleatorias", "correct": false },
+        { "text": "Tocar notas limpias y precisas", "correct": true },
+        { "text": "No importa si suenan cuerdas abiertas por accidente", "correct": false }
+      ]
+    },
+    {
+      "question": "¿Cómo se describe la regla de las columnas y de los dedos en el bajo?",
+      "answers": [
+        { "text": "Los dedos deben cruzar entre columnas", "correct": false },
+        { "text": "Cada dedo se asigna a una columna específica y no deben mezclarse", "correct": true },
+        { "text": "No es necesario asignar dedos a columnas específicas", "correct": false }
+      ]
+    },
+    {
+      "question": "¿Por qué es importante la regla de las columnas y de los dedos?",
+      "answers": [
+        { "text": "Para tocar más rápido", "correct": false },
+        { "text": "Para mantener la fluidez en la ejecución y evitar esfuerzos innecesarios", "correct": true },
+        { "text": "Para romper la formación de dedos", "correct": false }
+      ]
+    },
+    {
+      "question": "¿Qué se menciona como crucial para elevar el nivel de ejecución en el bajo?",
+      "answers": [
+        { "text": "Explorar y apreciar nuestro propio sonido", "correct": true },
+        { "text": "Tocar rápido", "correct": false },
+        { "text": "Ignorar la práctica consciente", "correct": false }
+      ]
+    },
+    {
+      "question": "¿Qué se menciona como un problema común al tocar cuerdas abiertas por accidente?",
+      "answers": [
+        { "text": "La falta de práctica consciente", "correct": false },
+        { "text": "La acumulación de ruidos innecesarios", "correct": true },
+        { "text": "La mala técnica", "correct": false }
+      ]
+    },
+    {
+      "question": "¿Qué se sugiere hacer si el ejercicio 'MOVIMIENTO EN BLOQUE' se vuelve demasiado difícil?",
+      "answers": [
+        { "text": "Tocar una nota cada 4 clics del metrónomo", "correct": false },
+        { "text": "Cambiar a otro ejercicio", "correct": false },
+        { "text": "Disminuir el tempo del metrónomo", "correct": true }
+      ]
+    },
+    {
+      "question": "¿Qué se menciona sobre la diversidad de métodos para tocar con la mano derecha?",
+      "answers": [
+        { "text": "No hay métodos recomendados", "correct": false },
+        { "text": "Cada bajista tiene su propio método preferido", "correct": true },
+        { "text": "Existe un consenso claro sobre el mejor método", "correct": false }
+      ]
+    },
+    {
+      "question": "¿Qué se destaca sobre la coordinación de elementos al practicar la mano izquierda y derecha por separado?",
+      "answers": [
+        { "text": "Es preferible coordinar ambos elementos desde el principio", "correct": false },
+        { "text": "Focalizarse 100% en un elemento a la vez para facilitar la coordinación", "correct": true },
+        { "text": "No es necesario coordinar ambos elementos al principio", "correct": false }
+      ]
+    },
+    {
+      "question": "¿cuál es un aspecto clave para lograr precisión en la mano derecha?",
+      "answers": [
+        { "text": "Mantener la mano compacta y anclada", "correct": true },
+        { "text": "Movimientos extremos y antinaturales", "correct": false },
+        { "text": "Flotar con la mano derecha", "correct": false }
+      ]
+    }
+  ],
+      "Groove I": [
+    {
+      "question": "¿Cuál es el papel central de la repetición en la creación de un buen groove según la introducción?",
+      "answers": [
+        { "text": "Establecer un ciclo predecible.", "correct": true },
+        { "text": "Conectar elementos diversos de distintos estilos musicales.", "correct": false },
+        { "text": "Proporcionar variedad y sorpresa en la armonía.", "correct": false }
+      ]
+    },
+    {
+      "question": "¿Cómo se describe un groove en términos de movimiento?",
+      "answers": [
+        { "text": "Un ciclo impredecible y cambiante.", "correct": false },
+        { "text": "Un ciclo estable, repetitivo y predecible.", "correct": true },
+        { "text": "Un ciclo corto sin repeticiones.", "correct": false }
+      ]
+    },
+    {
+      "question": "¿Por qué se destaca la importancia de la repetición en la música?",
+      "answers": [
+        { "text": "Para crear desafíos para el oyente.", "correct": false },
+        { "text": "Para transformar los sonidos en lenguaje.", "correct": true },
+        { "text": "Para que mejoremos la técnica.", "correct": false }
+      ]
+    },
+    {
+      "question": "¿por qué es difícil seguir y recordar la música cuando no hay repetición?",
+      "answers": [
+        { "text": "Porque la música carece de variedad.", "correct": false },
+        { "text": "Porque la música se vuelve predecible.", "correct": false },
+        { "text": "Porque la falta de repetición hace que sea confusa y aburrida.", "correct": true }
+      ]
+    },
+    {
+      "question": "¿Qué se sugiere como requisito previo para tocar un buen groove?",
+      "answers": [
+        { "text": "Tocar notas y ritmos diferentes todo el tiempo.", "correct": false },
+        { "text": "Tener una visión clara de lo que se quiere tocar.", "correct": true },
+        { "text": "No preocuparse por la repetición en la música.", "correct": false }
+      ]
+    },
+    {
+      "question": "¿Qué se destaca como una de las responsabilidades principales de los músicos al hablar de 'grid'?",
+      "answers": [
+        { "text": "Mantener un tempo firme.", "correct": true },
+        { "text": "Crear un patrón de bombo.", "correct": false },
+        { "text": "Tocar de manera irregular para agregar variedad.", "correct": false }
+      ]
+    },
+    {
+      "question": "¿Por qué se menciona la importancia de practicar con un metrónomo?",
+      "answers": [
+        { "text": "Porque mejora la conexión con el instrumento.", "correct": true },
+        { "text": "Porque es una moda en la música.", "correct": false },
+        { "text": "Porque limita la creatividad del músico.", "correct": false }
+      ]
+    },
+    {
+      "question": "¿Cómo se explica la relación entre el uso del metrónomo y la calidad del grid?",
+      "answers": [
+        { "text": "El metrónomo garantiza un grid perfecto.", "correct": false },
+        { "text": "El metrónomo ayuda, pero no garantiza un grid perfecto.", "correct": true },
+        { "text": "Tocar con metrónomo significa tener un groove sólido.", "correct": false }
+      ]
+    },
+    {
+      "question": "¿Cuál es la analogía utilizada para describir el papel del bajo en la banda?",
+      "answers": [
+        { "text": "Un líder en el edificio.", "correct": false },
+        { "text": "El pegamento que mantiene unidos a los elementos de la banda.", "correct": true },
+        { "text": "Una voz que se destaca por encima de los demás.", "correct": false }
+      ]
+    },
+    {
+      "question": "¿Por qué se compara a los músicos con un 'edificio' en el texto?",
+      "answers": [
+        { "text": "Para enfatizar la solidez del groove.", "correct": false },
+        { "text": "Para ilustrar la jerarquía de roles en la banda.", "correct": true },
+        { "text": "Para describir la relación entre diferentes instrumentos.", "correct": false }
+      ]
+    },
+    {
+      "question": "¿Cómo se describe el rol del bajo en la jerarquía del 'edificio musical'?",
+      "answers": [
+        { "text": "En la terraza.", "correct": false },
+        { "text": "En la base.", "correct": true },
+        { "text": "En el tercer piso.", "correct": false }
+      ]
+    },
+    {
+      "question": "¿Por qué se advierte sobre la 'ensalada de fills' en el contexto de una banda?",
+      "answers": [
+        { "text": "Porque es una metáfora confusa.", "correct": false },
+        { "text": "Porque puede haber conflictos rítmicos entre músicos.", "correct": true },
+        { "text": "Porque los fills arruinan la estructura de la canción.", "correct": false }
+      ]
+    },
+    {
+      "question": "¿Qué se sugiere como la primera prioridad de un bajista en un ensamble musical?",
+      "answers": [
+        { "text": "Tocar frases rápidas y complejas.", "correct": false },
+        { "text": "Mantener el edificio en pie y seguir al líder.", "correct": true },
+        { "text": "Tomar decisiones que destaquen su habilidad individual.", "correct": false }
+      ]
+    },
+    {
+      "question": "¿Por qué se destaca la importancia del contrapunto rítmico en la creación de un buen groove?",
+      "answers": [
+        { "text": "Para introducir conflicto y tensión.", "correct": false },
+        { "text": "Para asegurar que las melodías coexistan de manera armoniosa.", "correct": true },
+        { "text": "Para desafiar las normas y reglas de la música.", "correct": false }
+      ]
+    },
+    {
+      "question": "¿por qué es esencial tener buen tiempo como músico?",
+      "answers": [
+        { "text": "Para destacar individualmente.", "correct": false },
+        { "text": "Para mantener un groove sólido.", "correct": true },
+        { "text": "Para evitar conflictos armónicos.", "correct": false }
+      ]
+    },
+    {
+      "question": "¿Qué se sugiere como clave para evitar la 'ensalada de fills' en una banda?",
+      "answers": [
+        { "text": "Tocar fills constantemente para añadir emoción.", "correct": false },
+        { "text": "Seleccionar cuidadosamente los lugares para agregar información.", "correct": true },
+        { "text": "Ignorar las decisiones del solista durante un solo.", "correct": false }
+      ]
+    },
+    {
+      "question": "¿Por qué se aconseja a los bajistas pegarse a la batería en el edificio musical?",
+      "answers": [
+        { "text": "Para imitar la técnica del baterista.", "correct": false },
+        { "text": "Para resaltar la importancia del bajo.", "correct": false },
+        { "text": "Para mantener la cohesión rítmica en la base.", "correct": true }
+      ]
+    },
+    {
+      "question": "¿Qué se destaca como un error común de principiantes en relación con el grid?",
+      "answers": [
+        { "text": "Tocar con clic o metrónomo.", "correct": false },
+        { "text": "La falta de comprensión de los valores rítmicos.", "correct": false },
+        { "text": "La imprecisión al dividir los valores rítmicos.", "correct": true }
+      ]
+    }
+  ],
+"Amplificadores I": [
+    {
+      "question": "¿Cuál es el objetivo principal del LAB sobre amplificadores para bajo?",
+      "answers": [
+        { "text": "Aprender teoría musical.", "correct": false },
+        { "text": "Comprar un bajo acústico.", "correct": false },
+        { "text": "Entender cómo funciona y usar un amplificador de bajo.", "correct": true }
+      ]
+    },
+    {
+      "question": "¿Qué potencia se considera suficiente para obtener el verdadero tono del bajo?",
+      "answers": [
+        { "text": "15W", "correct": false },
+        { "text": "200W", "correct": true },
+        { "text": "500W - 700W", "correct": false }
+      ]
+    },
+    {
+      "question": "¿Cuál es la diferencia entre un amplificador en formato combo y uno en formato separado?",
+      "answers": [
+        { "text": "El formato combo integra gabinete y cabezal, mientras que el formato separado los conecta por un cable.", "correct": true },
+        { "text": "El formato combo es más caro.", "correct": false },
+        { "text": "No hay diferencia, son términos intercambiables.", "correct": false }
+      ]
+    },
+    {
+      "question": "¿Por qué es recomendable comenzar desde una posición neutral al experimentar con un amplificador?",
+      "answers": [
+        { "text": "Para evitar dañar el amplificador.", "correct": false },
+        { "text": "Para facilitar el transporte.", "correct": false },
+        { "text": "Para facilitar la exploración de distintas opciones de ecualización.", "correct": true }
+      ]
+    },
+    {
+      "question": "¿Cuáles son los controles básicos del ToneHammer500?",
+      "answers": [
+        { "text": "Volumen y tono.", "correct": false },
+        { "text": "Bajos, agudos y medios.", "correct": false },
+        { "text": "Control maestro de volumen, control de ganancia, controles de bajos, agudos y medios, 'mid freq' y 'Drive'.", "correct": true }
+      ]
+    },
+    {
+      "question": "¿Cuál es la función del botón 'Operate/Mute' en un amplificador?",
+      "answers": [
+        { "text": "Cortar la señal del equipo para evitar ruidos al desconectar o conectar cables.", "correct": true },
+        { "text": "Ajustar la ganancia.", "correct": false },
+        { "text": "Seleccionar el tipo de efecto.", "correct": false }
+      ]
+    },
+    {
+      "question": "¿Por qué algunos amplificadores incluyen un botón de -10dB?",
+      "answers": [
+        { "text": "Para aumentar la ganancia.", "correct": false },
+        { "text": "Para reducir la saturación y lidiar con la diferencia de volumen entre bajos pasivos y activos.", "correct": true },
+        { "text": "Para ajustar la frecuencia de medios.", "correct": false }
+      ]
+    },
+    {
+      "question": "¿Cuál es la ventaja de tener un DI (Direct Input) en un amplificador?",
+      "answers": [
+        { "text": "Proporciona un sonido distorsionado.", "correct": false },
+        { "text": "Permite conectar varios amplificadores.", "correct": false },
+        { "text": "Permite enviar la señal a otros dispositivos como placas, consolas o monitores.", "correct": true }
+      ]
+    },
+    {
+      "question": "¿Qué función cumple el botón Lift/Gnd en el contexto del DI?",
+      "answers": [
+        { "text": "Ajustar la ganancia.", "correct": false },
+        { "text": "Resetear el ciclo de la señal para resolver zumbidos relacionados a interferencias de señal.", "correct": true },
+        { "text": "Cambiar entre modos de ecualización.", "correct": false }
+      ]
+    },
+    {
+      "question": "¿Qué recomendación se da al ajustar las perillas del amplificador?",
+      "answers": [
+        { "text": "Girarlas drásticamente para explorar posibilidades.", "correct": false },
+        { "text": "Hacer cambios lentamente, ya que pequeños ajustes tienen un gran impacto.", "correct": true },
+        { "text": "Mantenerlas siempre en la posición inicial.", "correct": false }
+      ]
+    }
+  ],
+
+  "Walking Bass I": [
+    {
+      "question": "En el tiempo 1 del compás, ¿qué nota se sugiere tocar y por qué?",
+      "answers": [
+        { "text": "La quinta del acorde, para variar la línea.", "correct": false },
+        { "text": "Cualquier nota de la triada del acorde.", "correct": false },
+        { "text": "La tónica del acorde, para proporcionar claridad armónica.", "correct": true }
+      ]
+    },
+    {
+      "question": "¿Qué regla se sigue en el tiempo 3 al elegir notas para el walking bass?",
+      "answers": [
+        { "text": "Tocar la tónica del acorde.", "correct": false },
+        { "text": "Tener la libertad de tocar cualquier nota de la triada del acorde.", "correct": true },
+        { "text": "Evitar repetir la tónica para mantener la línea interesante.", "correct": false }
+      ]
+    },
+    {
+      "question": "En los tiempos 2 y 4, ¿qué se menciona sobre las notas 'horizontales' o de 'aproximación'?",
+      "answers": [
+        { "text": "Deben alejarse una segunda mayor o menos de su resolución.", "correct": true },
+        { "text": "Pueden usarse sin restricciones.", "correct": false },
+        { "text": "No son importantes para la coherencia de la línea.", "correct": false }
+      ]
+    },
+    {
+      "question": "¿Qué implica el Paso 2 en el proceso de práctica del walking bass?",
+      "answers": [
+        { "text": "Listar todas las opciones posibles.", "correct": true },
+        { "text": "Tomar decisiones y unir las combinaciones preferidas.", "correct": false },
+        { "text": "Seleccionar solo las opciones diatónicas.", "correct": false }
+      ]
+    },
+    {
+      "question": "¿Cuál es un aspecto importante a tener en cuenta al elegir entre diferentes combinaciones en el walking bass?",
+      "answers": [
+        { "text": "La complejidad de las notas individuales.", "correct": false },
+        { "text": "La repetición y el contorno general de la línea.", "correct": true },
+        { "text": "La cantidad de cromatismos utilizados.", "correct": false }
+      ]
+    },
+    {
+      "question": "¿En qué momento se sugiere acentuar ligeramente las notas en el walking bass?",
+      "answers": [
+        { "text": "En el tiempo 1 y 3.", "correct": false },
+        { "text": "En el tiempo 1.", "correct": false },
+        { "text": "En el tiempo 2 y 4.", "correct": true }
+      ]
+    },
+    {
+      "question": "¿Cómo se describe la corchea en el contexto del jazz-swing?",
+      "answers": [
+        { "text": "Como una corchea recta.", "correct": false },
+        { "text": "Como una corchea con swing.", "correct": true },
+        { "text": "Como una negra con swing.", "correct": false }
+      ]
+    },
+    {
+      "question": "¿Cuál es el objetivo principal del LAB mencionado en el texto?",
+      "answers": [
+        { "text": "Incorporar el sonido del walking en nuestra cabeza.", "correct": true },
+        { "text": "Desarrollar preferencia y gusto en la creación de líneas de bajo.", "correct": false },
+        { "text": "Romper las reglas establecidas en el sistema de práctica.", "correct": false }
+      ]
+    },
+    {
+      "question": "En relación con el sistema de práctica, ¿por qué se dice que este LAB está dirigido a principiantes?",
+      "answers": [
+        { "text": "Porque solo los principiantes pueden romper las reglas.", "correct": false },
+        { "text": "Porque se enfoca en los primeros pasos en el mundo del walking bass.", "correct": true },
+        { "text": "Porque los principiantes no necesitan seguir reglas.", "correct": false }
+      ]
+    }
+  ],
+  "Melodía I": [
+    {
+      "question": "¿Cómo se describe la importancia de estudiar teoría melódica en la introducción del texto?",
+      "answers": [
+        { "text": "Facilita la creación de frases musicales y melodías.", "correct": true },
+        { "text": "Ayuda a entender la teoría armónica.", "correct": false },
+        { "text": "Se centra en las líneas de bajo.", "correct": false }
+      ]
+    },
+    {
+      "question": "¿por qué algunas notas que deberían sonar disonantes suenan bien en ciertos contextos?",
+      "answers": [
+        { "text": "Porque la teoría melódica no tiene reglas fijas.", "correct": false },
+        { "text": "Debido a factores como la duración, el silencio, el salto y la repetición.", "correct": true },
+        { "text": "Porque las notas disonantes siempre suenan mal.", "correct": false }
+      ]
+    },
+    {
+      "question": "¿Cuáles son los dos tipos de notas en una melodía mencionados en el texto?",
+      "answers": [
+        { "text": "Altas y bajas.", "correct": false },
+        { "text": "Verticales y horizontales.", "correct": true },
+        { "text": "Rítmicas y melódicas.", "correct": false }
+      ]
+    },
+    {
+      "question": "¿Qué caracteriza a las notas verticales en una melodía?",
+      "answers": [
+        { "text": "Adornan y complementan las notas horizontales.", "correct": true },
+        { "text": "Deben respetar la armonía del momento y no ser notas prohibidas ni no diatónicas.", "correct": false },
+        { "text": "Tienen flexibilidad para no seguir la armonía del momento.", "correct": false }
+      ]
+    },
+    {
+      "question": "En el texto, ¿cuáles son los cuatro factores que convierten una nota en vertical?",
+      "answers": [
+        { "text": "Duración, salto, repetición y vecindad.", "correct": false },
+        { "text": "Salto, silencio, duración y repetición.", "correct": false },
+        { "text": "Silencio posterior, repetición, salto y duración.", "correct": true }
+      ]
+    },
+    {
+      "question": "¿Cómo se clasifican las notas horizontales en el texto?",
+      "answers": [
+        { "text": "Vecinales, de paso, aproximación no preparada, doble aproximación cromática y resolución indirecta.", "correct": true },
+        { "text": "Rítmicas, melódicas, armónicas, disonantes y consonantes.", "correct": false },
+        { "text": "Primarias, secundarias, terciarias, cuaternarias y quinarias.", "correct": false }
+      ]
+    },
+    {
+      "question": "¿Qué caracteriza a las notas vecinales?",
+      "answers": [
+        { "text": "Se inician y terminan con la misma nota vertical.", "correct": false },
+        { "text": "Avanzan hacia la siguiente vertical.", "correct": true },
+        { "text": "Saltan más de una segunda mayor.", "correct": false }
+      ]
+    },
+    {
+      "question": "¿Qué diferencia a las notas de paso de las notas vecinales?",
+      "answers": [
+        { "text": "Las notas de paso siempre están precedidas por un salto.", "correct": false },
+        { "text": "Las notas de paso no tienen límite de distancia.", "correct": false },
+        { "text": "Las notas de paso avanzan hacia la siguiente vertical.", "correct": true }
+      ]
+    },
+    {
+      "question": "¿Cómo se define una aproximación no preparada en el texto?",
+      "answers": [
+        { "text": "Cuando las notas horizontales tienen una preparación cercana.", "correct": false },
+        { "text": "Cuando las notas horizontales están precedidas por un salto o silencio.", "correct": true },
+        { "text": "Cuando las notas horizontales se presentan sin ninguna preparación.", "correct": false }
+      ]
+    },
+    {
+      "question": "¿Qué caracteriza a la doble aproximación cromática?",
+      "answers": [
+        { "text": "Dos horizontales seguidas cromáticas que terminan en una vertical.", "correct": true },
+        { "text": "Una horizontal seguida de una vertical.", "correct": false },
+        { "text": "Una aproximación que involucra dos notas cromáticas.", "correct": false }
+      ]
+    },
+    {
+      "question": "¿Cómo se define la resolución indirecta en el contexto del texto?",
+      "answers": [
+        { "text": "Dos horizontales seguidas que resuelven en una vertical.", "correct": false },
+        { "text": "Dos horizontales (una por encima, una por debajo o viceversa) que resuelven a una vertical que queda en el medio.", "correct": true },
+        { "text": "Dos horizontales precedidas por una vertical en el medio.", "correct": false }
+      ]
+    },
+    {
+      "question": "¿Cómo se define una 'nota equivocada' en el texto?",
+      "answers": [
+        { "text": "Cualquier nota que no sea diatónica.", "correct": false },
+        { "text": "Una nota que debería haber sido horizontal, pero se convirtió en vertical.", "correct": true },
+        { "text": "Una nota que nunca debería ser utilizada en melodías.", "correct": false }
+      ]
+    },
+    {
+      "question": "¿Qué sugerencia se hace en el texto sobre cómo corregir una 'nota equivocada'?",
+      "answers": [
+        { "text": "Moverla un tono hacia arriba o hacia abajo.", "correct": true },
+        { "text": "Eliminarla por completo.", "correct": false },
+        { "text": "Cambiar la duración de la nota.", "correct": false }
+      ]
+    },
+    {
+      "question": "En el contexto del texto, ¿cuál es la importancia de comprender la duración de las notas para construir melodías?",
+      "answers": [
+        { "text": "La duración determina la altura de las notas.", "correct": false },
+        { "text": "La duración solo afecta la velocidad de la melodía.", "correct": false },
+        { "text": "La duración influye en si una nota se considera horizontal o vertical.", "correct": true }
+      ]
+    },
+    {
+      "question": "¿por qué las notas horizontales son consideradas más flexibles que las notas verticales?",
+      "answers": [
+        { "text": "Porque siempre siguen la armonía del momento.", "correct": false },
+        { "text": "Porque no necesariamente deben seguir estrictamente la armonía del momento.", "correct": true },
+        { "text": "Porque se caracterizan por duraciones más largas en relación al tiempo.", "correct": false }
+      ]
+    }
+  ],
+
+  "Lectura I": [
+    {
+      "question": "¿Cuáles son las tres reglas que se mencionan para aprender a leer música a primera vista?",
+      "answers": [
+        { "text": "Leer con certeza, leer letra por letra, leer despacio.", "correct": false },
+        { "text": "Leer palabras completas, leer con incertidumbre, leer por adelantado.", "correct": false },
+        { "text": "Leer con total certeza, leer palabras completas, leer por adelantado.", "correct": true },
+        { "text": "Leer con rapidez, leer sin pausas, leer notas individuales.", "correct": false }
+      ]
+    },
+    {
+      "question": "¿Cuál es la función principal del pentagrama en la notación musical?",
+      "answers": [
+        { "text": "Indicar la duración de las notas.", "correct": false },
+        { "text": "Representar la clave y la armadura.", "correct": false },
+        { "text": "Escribir la altura, los silencios, la dinámica, la duración y el timbre de la música.", "correct": true },
+        { "text": "Organizar los compases y sistemas en la partitura.", "correct": false }
+      ]
+    },
+    {
+      "question": "¿Qué función tienen las llaves y los corchetes en la notación musical?",
+      "answers": [
+        { "text": "Marcar el inicio y el final de una partitura.", "correct": false },
+        { "text": "Conectar pentagramas que son tocados por una sola persona (llaves) o por más de una persona (corchetes).", "correct": true },
+        { "text": "Indicar el volumen de las notas.", "correct": false },
+        { "text": "Especificar el registro de las notas en el pentagrama.", "correct": false }
+      ]
+    },
+    {
+      "question": "¿Cuál es la importancia de las claves en la notación musical?",
+      "answers": [
+        { "text": "Definir el tipo de compás que se utilizará en la partitura.", "correct": false },
+        { "text": "Indicar el tono musical y la ubicación de las notas en el pentagrama.", "correct": true },
+        { "text": "Establecer el volumen de las notas.", "correct": false },
+        { "text": "Señalar los cambios de tempo en la música.", "correct": false }
+      ]
+    },
+    {
+      "question": "¿Qué función tienen los accidentales en la notación musical?",
+      "answers": [
+        { "text": "Modificar la altura de las notas.", "correct": true },
+        { "text": "Indicar el volumen de las notas.", "correct": false },
+        { "text": "Especificar el registro de las notas en el pentagrama.", "correct": false },
+        { "text": "Definir el tipo de compás que se utilizará en la partitura.", "correct": false }
+      ]
+    },
+    {
+      "question": "¿Cuál es la relación entre el número superior e inferior en el tipo de compás?",
+      "answers": [
+        { "text": "El número superior indica la cantidad de notas en un compás, y el número inferior el tipo de nota.", "correct": true },
+        { "text": "El número superior indica el tipo de nota que se utilizará en el compás, y el número inferior la cantidad de compases en la partitura.", "correct": false },
+        { "text": "El número superior indica la cantidad de compases en la partitura.", "correct": false }
+      ]
+    },
+    {
+      "question": "¿Qué representa la clave de Sol en la notación musical?",
+      "answers": [
+        { "text": "Posiciona la nota SOL en la segunda línea del pentagrama.", "correct": true },
+        { "text": "Indica el registro más bajo de un instrumento.", "correct": false },
+        { "text": "Define el volumen de las notas.", "correct": false },
+        { "text": "Es un símbolo utilizado para marcar el inicio y el final de una partitura.", "correct": false }
+      ]
+    },
+    {
+      "question": "¿Cuál es la función de la clave de Fa en la notación musical?",
+      "answers": [
+        { "text": "Posicionar la nota FA en la cuarta línea del pentagrama.", "correct": true },
+        { "text": "Conectar pentagramas tocados por una sola persona.", "correct": false },
+        { "text": "Indicar el timbre de las notas.", "correct": false },
+        { "text": "Establecer el registro más alto de un instrumento.", "correct": false }
+      ]
+    },
+    {
+      "question": "¿Qué función cumplen los números '8' y '16' cuando aparecen junto a una clave en la notación musical?",
+      "answers": [
+        { "text": "Indican el número de compases que deben repetirse.", "correct": false },
+        { "text": "Especifican la tonalidad en la que se encuentra la pieza musical.", "correct": false },
+        { "text": "Modifican el registro de las notas una o dos octavas, respectivamente.", "correct": true },
+        { "text": "Representan la duración de las notas en el compás.", "correct": false }
+      ]
+    },
+    {
+      "question": "¿Qué representan los accidentales 'sostenido' y 'bemol' en la notación musical?",
+      "answers": [
+        { "text": "El sostenido sube la nota un semitono, y el bemol la baja un semitono.", "correct": true },
+        { "text": "El sostenido baja la nota un semitono, y el bemol la sube un semitono.", "correct": false },
+        { "text": "Ambos accidentales tienen la misma función: subir la nota un semitono.", "correct": false },
+        { "text": "Ambos accidentales tienen la misma función: bajar la nota un tono.", "correct": false }
+      ]
+    },
+    {
+      "question": "¿Qué significa que una armadura de clave tiene tres bemoles?",
+      "answers": [
+        { "text": "La armadura está en la tonalidad de Si bemol mayor.", "correct": false },
+        { "text": "La armadura está en la tonalidad de Sol menor.", "correct": false },
+        { "text": "La armadura está en la tonalidad de Mi bemol mayor.", "correct": true },
+        { "text": "La armadura está en la tonalidad de Fa sostenido menor.", "correct": false }
+      ]
+    },
+    {
+      "question": "¿Cuál es la función principal de los compases en la notación musical?",
+      "answers": [
+        { "text": "Organizar los instrumentos en una orquesta.", "correct": false },
+        { "text": "Marcar los cambios de tempo en una pieza musical.", "correct": false },
+        { "text": "Dividir el tiempo y organizar las notas y los silencios en grupos.", "correct": true },
+        { "text": "Especificar el tipo de clave que se utilizará en una partitura.", "correct": false }
+      ]
+    },
+    {
+      "question": "¿Qué indican las líneas dobles en una partitura musical?",
+      "answers": [
+        { "text": "La repetición de una sección de música.", "correct": false },
+        { "text": "El cambio de tonalidad de una pieza.", "correct": false },
+        { "text": "El final de una pieza musical.", "correct": false },
+        { "text": "El inicio de una nueva sección musical.", "correct": true }
+      ]
+    },
+    {
+      "question": "¿Qué función cumplen los signos de repetición en la notación musical?",
+      "answers": [
+        { "text": "Indicar el registro de las notas en el pentagrama.", "correct": false },
+        { "text": "Especificar la dinámica de una pieza musical.", "correct": false },
+        { "text": "Marcar el inicio y el final de una partitura.", "correct": false },
+        { "text": "Señalar secciones de música que se deben repetir.", "correct": true }
+      ]
+    },
+    {
+      "question": "¿Qué representa la letra 'p' en una partitura musical?",
+      "answers": [
+        { "text": "Piano, indica que la música debe ser tocada suavemente.", "correct": true },
+        { "text": "Presto, indica que la música debe ser tocada a un tempo rápido.", "correct": false },
+        { "text": "Pausa, indica que se debe hacer una pausa en la interpretación.", "correct": false },
+        { "text": "Pianissimo, indica que la música debe ser tocada muy suavemente.", "correct": false }
+      ]
+    },
+    {
+      "question": "¿Qué función cumple el signo de la doble barra en una partitura musical?",
+      "answers": [
+        { "text": "Indicar el final de una pieza musical.", "correct": true },
+        { "text": "Marcar el inicio de una nueva sección musical.", "correct": false },
+        { "text": "Señalar la repetición de una sección de música.", "correct": false },
+        { "text": "Especificar la tonalidad en la que se encuentra la pieza musical.", "correct": false }
+      ]
+    },
+    {
+      "question": "¿Qué indican las líneas adicionales que se agregan por encima o por debajo del pentagrama en la notación musical?",
+      "answers": [
+        { "text": "Indican el registro de las notas que se extienden más allá del pentagrama.", "correct": true },
+        { "text": "Se utilizan para marcar el inicio y el final de una partitura.", "correct": false },
+        { "text": "Representan los cambios de tempo en una pieza musical.", "correct": false },
+        { "text": "Especifican la armadura de clave que se utilizará en una partitura.", "correct": false }
+      ]
+    },
+    {
+      "question": "¿Qué función tienen las dinámicas en una partitura musical?",
+      "answers": [
+        { "text": "Indicar la tonalidad de la pieza.", "correct": false },
+        { "text": "Especificar el ritmo de la música.", "correct": false },
+        { "text": "Indicar la intensidad o volumen con el que se deben tocar las notas.", "correct": true },
+        { "text": "Señalar las secciones de repetición en la música.", "correct": false }
+      ]
+    },
+    {
+      "question": "¿Cuál es el objetivo del marcato en una partitura musical?",
+      "answers": [
+        { "text": "Enfatizar una nota con un ataque más agresivo.", "correct": true },
+        { "text": "Alargar la duración de una nota.", "correct": false },
+        { "text": "Crear un efecto de crescendo.", "correct": false },
+        { "text": "Unir las notas sin re-atacarlas.", "correct": false }
+      ]
+    },
+    {
+      "question": "¿Qué indica el símbolo de staccato sobre una nota en una partitura musical?",
+      "answers": [
+        { "text": "Un ataque pronunciado seguido de una caída en la dinámica.", "correct": false },
+        { "text": "Un cambio gradual en la intensidad de la música.", "correct": false },
+        { "text": "Una separación clara y definida entre las notas.", "correct": true },
+        { "text": "Un énfasis en las notas mediante un cambio de volumen.", "correct": false }
+      ]
+    },
+    {
+      "question": "¿Cuál es la función de las notas de gracia en una partitura musical?",
+      "answers": [
+        { "text": "Indicar el registro de las notas en el pentagrama.", "correct": false },
+        { "text": "Aproximar las notas principales.", "correct": true },
+        { "text": "Conectar pentagramas tocados por más de una persona.", "correct": false },
+        { "text": "Especificar la tonalidad en la que se encuentra la pieza musical.", "correct": false }
+      ]
+    },
+    {
+      "question": "¿Qué es un glissando en música?",
+      "answers": [
+        { "text": "Una repetición continua de una nota.", "correct": false },
+        { "text": "La rápida alternancia entre dos notas.", "correct": false },
+        { "text": "La conexión continua de dos notas tocando todas las notas intermedias.", "correct": true },
+        { "text": "Un efecto que afecta el timbre de una nota.", "correct": false }
+      ]
+    },
+    {
+      "question": "¿Cuál es el objetivo del tremolo en una partitura musical?",
+      "answers": [
+        { "text": "Repetir una nota de forma continua.", "correct": false },
+        { "text": "Crear un efecto de cascada en instrumentos de cuerda.", "correct": false },
+        { "text": "Alternar rápidamente entre dos notas.", "correct": true },
+        { "text": "Aproximar las notas principales.", "correct": false }
+      ]
+    },
+    {
+      "question": "¿Qué función tienen las marcas de ensayo en una partitura musical?",
+      "answers": [
+        { "text": "Indicar cambios graduales en la intensidad de la música.", "correct": false },
+        { "text": "Representar un rango de tempo.", "correct": false },
+        { "text": "Identificar secciones específicas de la música.", "correct": true },
+        { "text": "Establecer el tiempo original después de una pausa.", "correct": false }
+      ]
+    },
+    {
+      "question": "¿Cuál es la diferencia entre las dinámicas fijas y las dinámicas con movimiento?",
+      "answers": [
+        { "text": "Las dinámicas fijas afectan solo a una nota específica, mientras que las dinámicas con movimiento afectan a toda la sección.", "correct": false },
+        { "text": "Las dinámicas fijas indican un cambio gradual en la intensidad, mientras que las dinámicas con movimiento mantienen la misma intensidad.", "correct": true },
+        { "text": "Las dinámicas fijas no implican cambios en la intensidad, mientras que las dinámicas con movimiento sí.", "correct": false },
+        { "text": "Las dinámicas fijas y con movimiento son términos intercambiables que significan lo mismo.", "correct": false }
+      ]
+    },
+    {
+      "question": "¿Cuál es la función de la atadura en la notación musical?",
+      "answers": [
+        { "text": "Sumar la duración de dos notas.", "correct": true },
+        { "text": "Separar claramente las notas.", "correct": false },
+        { "text": "Indicar un cambio de compás.", "correct": false },
+        { "text": "Afectar la dinámica de la música.", "correct": false }
+      ]
+    }
+  ],
+  "Lectura II": [
+    {
+      "question": "¿Cuál es el principal problema al leer música al mismo tiempo que se toca?",
+      "answers": [
+        { "text": "Pérdida de concentración.", "correct": false },
+        { "text": "Dificultad para leer las notas.", "correct": false },
+        { "text": "Es más probable que la música nos sorprenda, resultando en errores.", "correct": true },
+        { "text": "Confusión entre las sílabas rítmicas.", "correct": false }
+      ]
+    },
+    {
+      "question": "¿Qué se recomienda hacer para alejar el zoom al leer música?",
+      "answers": [
+        { "text": "Enfocarse en las notas individuales.", "correct": false },
+        { "text": "Agrupar fragmentos de música en vez de leer notas individuales.", "correct": true },
+        { "text": "Practicar la lectura de compases completos.", "correct": false }
+      ]
+    },
+    {
+      "question": "¿Cuál es el propósito de aprovechar el tiempo antes de comenzar a leer una partitura?",
+      "answers": [
+        { "text": "Leer de izquierda a derecha por si hay algo raro.", "correct": false },
+        { "text": "Evitar errores y anticipar sorpresas.", "correct": true },
+        { "text": "Decidir el tempo de la pieza.", "correct": false },
+        { "text": "Establecer la tonalidad de la música.", "correct": false }
+      ]
+    },
+    {
+      "question": "¿Qué se recomienda hacer para reconocer el tempo de una partitura sin un metrónomo?",
+      "answers": [
+        { "text": "Memorizar diferentes canciones y sus tempos.", "correct": true },
+        { "text": "Utilizar un software de reconocimiento de tempo.", "correct": false },
+        { "text": "Contar el número de notas por minuto.", "correct": false },
+        { "text": "Tocar la pieza a diferentes velocidades.", "correct": false }
+      ]
+    },
+    {
+      "question": "¿Qué estrategia se sugiere para leer música a tempos rápidos?",
+      "answers": [
+        { "text": "Dividir mentalmente el compás en partes desiguales.", "correct": false },
+        { "text": "Contar el doble de notas por minuto.", "correct": false },
+        { "text": "Tocar las notas con menos precisión.", "correct": false },
+        { "text": "Pensar en compás partido, es decir: Leer las negras como corcheas y las corcheas como semicorcheas.", "correct": true }
+      ]
+    },
+    {
+      "question": "¿Por qué se recomienda practicar con un metrónomo al leer música?",
+      "answers": [
+        { "text": "Para mejorar la lectura de notas individuales.", "correct": false },
+        { "text": "Para mantener un tempo constante.", "correct": false },
+        { "text": "Para reducir la velocidad de interpretación.", "correct": false },
+        { "text": "Para evitar la necesidad de seguir adelante a pesar de los errores.", "correct": true }
+      ]
+    },
+    {
+      "question": "¿Cuál es el principal consejo para no perder el lugar en la partitura después de cometer un error?",
+      "answers": [
+        { "text": "Detenerse y corregir el error inmediatamente.", "correct": false },
+        { "text": "Seguir adelante como si nada hubiera pasado.", "correct": true },
+        { "text": "Retroceder y comenzar desde el principio.", "correct": false },
+        { "text": "Tomarse un descanso para recuperar la concentración.", "correct": false }
+      ]
+    },
+    {
+      "question": "¿Qué se debe hacer al enfrentarse a repeticiones complicadas en una partitura?",
+      "answers": [
+        { "text": "Contar en voz alta para evitar confusiones.", "correct": true },
+        { "text": "Ignorar las repeticiones y seguir adelante.", "correct": false },
+        { "text": "Memorizar la estructura de la repetición.", "correct": false },
+        { "text": "Escanear la partitura para entender el mapa musical.", "correct": false }
+      ]
+    },
+    {
+      "question": "¿Cuál es la estrategia recomendada para abordar pasajes complejos en la lectura musical?",
+      "answers": [
+        { "text": "Dividir la información en partes pequeñas.", "correct": true },
+        { "text": "Tocar todo el pasaje de una sola vez.", "correct": false },
+        { "text": "Aumentar la velocidad de interpretación.", "correct": false },
+        { "text": "Utilizar la memoria como única estrategia.", "correct": false }
+      ]
+    },
+    {
+      "question": "¿Qué se sugiere hacer cuando nos encontramos con un pasaje conducido en una partitura?",
+      "answers": [
+        { "text": "Mirar la partitura constantemente para evitar errores.", "correct": false },
+        { "text": "Ignorar las indicaciones del director y seguir leyendo.", "correct": false },
+        { "text": "Memorizar el pasaje para poder mirar al director.", "correct": true },
+        { "text": "Concentrarse en seguir las notas sin importar la dirección del director.", "correct": false }
+      ]
+    },
+    {
+      "question": "¿Qué tipo de errores pueden causar problemas graves al contar las repeticiones en una partitura?",
+      "answers": [
+        { "text": "Repeticiones pares.", "correct": false },
+        { "text": "Repeticiones impares.", "correct": true },
+        { "text": "Repeticiones regulares.", "correct": false },
+        { "text": "Repeticiones consecutivas.", "correct": false }
+      ]
+    },
+    {
+      "question": "¿Qué problema puede surgir al tener una partitura extensa y un atril que solo puede mostrar un número limitado de páginas?",
+      "answers": [
+        { "text": "No poder encontrar el Segno.", "correct": false },
+        { "text": "No poder ver al conductor.", "correct": false },
+        { "text": "No poder recordar las notas.", "correct": false },
+        { "text": "No poder cambiar de página a tiempo.", "correct": true }
+      ]
+    },
+    {
+      "question": "¿Qué se recomienda hacer para planificar las transiciones de página en una partitura extensa?",
+      "answers": [
+        { "text": "Marcar los giros de página.", "correct": true },
+        { "text": "Utilizar un atril más grande.", "correct": false },
+        { "text": "Memorizar las páginas intermedias.", "correct": false },
+        { "text": "Seguir las indicaciones del director.", "correct": false }
+      ]
+    },
+    {
+      "question": "¿Qué ventaja tiene grabarse mientras se lee música?",
+      "answers": [
+        { "text": "Permite confrontar el progreso personal.", "correct": true },
+        { "text": "Ayuda a mantener la concentración.", "correct": false },
+        { "text": "Facilita la interpretación de la partitura.", "correct": false },
+        { "text": "Evita la necesidad de practicar en vivo.", "correct": false }
+      ]
+    },
+    {
+      "question": "¿Qué desafío enfrentan los bateristas al leer música?",
+      "answers": [
+        { "text": "Leer melodías complejas.", "correct": false },
+        { "text": "Coordinar múltiples líneas rítmicas.", "correct": true },
+        { "text": "Tocar acordes complicados.", "correct": false },
+        { "text": "Interpretar diferentes tonalidades.", "correct": false }
+      ]
+    },
+    {
+      "question": "¿Qué recomendación se ofrece para leer acordes de manera más eficiente?",
+      "answers": [
+        { "text": "Leer un acorde por vez.", "correct": false },
+        { "text": "Agrupar varios acordes en bloques.", "correct": true },
+        { "text": "Ignorar los cambios armónicos.", "correct": false },
+        { "text": "Practicar solo en tempo lento.", "correct": false }
+      ]
+    },
+    {
+      "question": "¿Qué se sugiere para mejorar la lectura musical después de tener cierta comodidad con las partituras?",
+      "answers": [
+        { "text": "Componer nuestras propias melodías.", "correct": false },
+        { "text": "Transcribir pasajes musicales de otros instrumentos.", "correct": true },
+        { "text": "Dejar de practicar lectura musical.", "correct": false },
+        { "text": "Tocar solo en vivo.", "correct": false }
+      ]
+    },
+    {
+      "question": "¿Por qué es importante conocer los momentos más productivos del día para practicar?",
+      "answers": [
+        { "text": "Para aprovechar al máximo las sesiones de práctica.", "correct": true },
+        { "text": "Para adaptarse al horario del instructor.", "correct": false },
+        { "text": "Para seguir un programa de estudio estricto.", "correct": false },
+        { "text": "Para evitar distracciones durante la práctica.", "correct": false }
+      ]
+    },
+    {
+      "question": "¿Qué se recomienda transcribir para mejorar la lectura musical?",
+      "answers": [
+        { "text": "Pasajes largos de música.", "correct": false },
+        { "text": "Solo pasajes de instrumentos de cuerda.", "correct": false },
+        { "text": "Solo pasajes de instrumentos de viento.", "correct": false },
+        { "text": "Pasajes cortos de música.", "correct": true }
+      ]
+    },
+    {
+      "question": "¿Qué se sugiere para mejorar la memoria musical al transcribir?",
+      "answers": [
+        { "text": "Repetir pasajes musicales sin escribirlos.", "correct": false },
+        { "text": "Imaginar la música escrita en la partitura.", "correct": true },
+        { "text": "Escuchar música en vivo.", "correct": false },
+        { "text": "Estudiar solo un tipo de música.", "correct": false }
+      ]
+    },
+    {
+      "question": "¿Cuál es uno de los beneficios de leer por adelantado?",
+      "answers": [
+        { "text": "Evitar sorpresas y errores.", "correct": true },
+        { "text": "Incrementar la velocidad de lectura.", "correct": false },
+        { "text": "Memorizar rápidamente la partitura.", "correct": false },
+        { "text": "Reducir la necesidad de práctica.", "correct": false }
+      ]
+    },
+    {
+      "question": "¿Qué se recomienda hacer durante los '30 segundos de oro' antes de comenzar a leer una partitura?",
+      "answers": [
+        { "text": "Tocar una canción completa en el instrumento.", "correct": false },
+        { "text": "Mirar la armadura de clave, compás y tempo de la canción.", "correct": true },
+        { "text": "Contar las líneas del pentagrama.", "correct": false },
+        { "text": "Repasar las reglas de transcripción musical.", "correct": false }
+      ]
+    }
+  ]
+}
+

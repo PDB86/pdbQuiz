@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="es">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>PDB Music Academy Quiz</title>
+    <link rel="stylesheet" href="styles.css" />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600;700&display=swap"
+      rel="stylesheet"
+    />
+  </head>
+  <body>
+    <div id="quiz-container">
+      <h1 id="course-title">Loading...</h1>
+
+      <div id="quiz-header">
+        <p id="progress-text">
+          Pregunta <span id="current-question">1</span> de
+          <span id="total-questions">5</span>
+        </p>
+        <p id="score-text">Puntuación: <span id="score">0</span></p>
+      </div>
+
+      <div id="score-container" style="display: none">
+        <h2>¡Quiz completado!</h2>
+        <p>
+          Tu puntuación: <span id="final-score"></span> /
+          <span id="total-questions-final"></span>
+        </p>
+        <button id="restart-button">Reiniciar Quiz</button>
+      </div>
+
+      <div id="question-container">
+        <div id="question-box">
+          <p id="question-text">Loading question...</p>
+        </div>
+        <div id="answer-buttons"></div>
+        <!-- ✅ Added missing div -->
+      </div>
+
+      <button id="next-button" style="visibility: hidden">Next</button>
+      <!-- ✅ Initially hidden -->
+    </div>
+
+    <script src="script.js"></script>
+  </body>
+</html>
