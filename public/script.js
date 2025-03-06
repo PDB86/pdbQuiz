@@ -20,7 +20,7 @@ let score = 0;
 // Function to load questions dynamically based on the selected course
 async function loadQuestions(course) {
   try {
-    const response = await fetch("./public/questions.json");
+    const response = await fetch("questions.json");
     const data = await response.json();
 
     console.log("Fetched data:", data);
