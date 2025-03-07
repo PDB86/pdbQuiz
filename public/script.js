@@ -1,62 +1,60 @@
 // Select key elements from the HTML
-const questionText = document.getElementById("question-text");
-const answerButtons = document.getElementById("answer-buttons");
-const nextButton = document.getElementById("next-button");
-const progressText = document.getElementById("current-question");
-const totalQuestionsText = document.getElementById("total-questions");
-const scoreText = document.getElementById("score");
-const scoreContainer = document.getElementById("score-container");
-const finalScoreText = document.getElementById("final-score");
-const totalQuestionsFinalText = document.getElementById(
-  "total-questions-final"
-);
-const restartButton = document.getElementById("restart-button");
+const questionText = document.getElementById("question-text")
+const answerButtons = document.getElementById("answer-buttons")
+const nextButton = document.getElementById("next-button")
+const progressText = document.getElementById("current-question")
+const totalQuestionsText = document.getElementById("total-questions")
+const scoreText = document.getElementById("score")
+const scoreContainer = document.getElementById("score-container")
+const finalScoreText = document.getElementById("final-score")
+const totalQuestionsFinalText = document.getElementById("total-questions-final")
+const restartButton = document.getElementById("restart-button")
+const progressBar = document.querySelector(".progress-bar")
+const resultMessage = document.getElementById("result-message")
 
 // Question bank
-let questions = [];
-let currentQuestionIndex = 0;
-let score = 0;
+let questions = []
+let currentQuestionIndex = 0
+let score = 0
 
 // Function to load questions dynamically based on the selected course
 async function loadQuestions(course) {
   try {
-    const response = await fetch("questions.json");
-    const data = await response.json();
+    const response = await fetch("questions.json")
+    const data = await response.json()
 
-    console.log("Fetched data:", data);
-    console.log("Looking for course:", course);
+    console.log("Fetched data:", data)
+    console.log("Looking for course:", course)
 
     if (data[course] && data[course].length > 0) {
-      questions = data[course];
-      document.getElementById("course-title").innerText = course; // ✅ Update H1 dynamically
-      console.log("Loaded questions:", questions);
-      startQuiz();
+      questions = data[course]
+      document.getElementById("course-title").innerText = course
+      console.log("Loaded questions:", questions)
+      startQuiz()
     } else {
-      console.error("Course not found or no questions available:", course);
-      questions = [];
-      document.getElementById("question-text").innerText =
-        "No questions available.";
-      document.getElementById("answer-buttons").innerHTML = "";
-      document.getElementById("next-button").style.visibility = "hidden";
+      console.error("Course not found or no questions available:", course)
+      questions = []
+      document.getElementById("question-text").innerText = "No questions available."
+      document.getElementById("answer-buttons").innerHTML = ""
+      document.getElementById("next-button").style.visibility = "hidden"
     }
   } catch (error) {
-    console.error("Error loading questions:", error);
+    console.error("Error loading questions:", error)
   }
 }
 
 function getQueryParams() {
-  const params = new URLSearchParams(window.location.search);
-  const queryParams = {};
+  const params = new URLSearchParams(window.location.search)
+  const queryParams = {}
 
   for (const [key, value] of params.entries()) {
-    queryParams[key] = value;
+    queryParams[key] = value
   }
 
-  return queryParams;
+  return queryParams
 }
 
 function getCourseFromPath() {
-  const path = window.location.pathname; // Get the URL path (e.g., "/armonia-1")
   const lastSegment = getQueryParams()["course"]
 
   const courseMap = {
@@ -79,126 +77,202 @@ function getCourseFromPath() {
     "lectura-1": "Lectura I",
     "lectura-2": "Lectura II",
     "lectura-3": "Lectura III",
-  };
+  }
 
-  return courseMap[lastSegment] || "Armonia I"; // Default to "Armonia I" if not found
+  return courseMap[lastSegment] || "Armonia I" // Default to "Armonia I" if not found
+}
+
+function updateProgressBar() {
+  const progress = ((currentQuestionIndex + 1) / questions.length) * 100
+  progressBar.style.width = `${progress}%`
 }
 
 function showQuestion() {
-  let currentQuestion = questions[currentQuestionIndex];
+  const currentQuestion = questions[currentQuestionIndex]
 
   // Apply fade-in animation
-  questionText.style.animation = "none";
-  void questionText.offsetWidth;
-  questionText.style.animation = "fadeIn 0.5s ease-in-out";
+  questionText.style.animation = "none"
+  void questionText.offsetWidth
+  questionText.style.animation = "fadeIn 0.5s ease-in-out"
 
   // Update the question text
-  questionText.innerText = currentQuestion.question;
+  questionText.innerText = currentQuestion.question
 
-  // Update the question number
-  progressText.innerText = currentQuestionIndex + 1;
-  totalQuestionsText.innerText = questions.length;
+  // Update the question number and progress bar
+  progressText.innerText = currentQuestionIndex + 1
+  totalQuestionsText.innerText = questions.length
+  updateProgressBar()
 
   // Clear previous answer buttons
-  answerButtons.innerHTML = "";
+  answerButtons.innerHTML = ""
 
   // Generate new answer buttons with animation
-  currentQuestion.answers.forEach((answer) => {
-    const button = document.createElement("button");
-    button.innerText = answer.text;
-    button.classList.add("answer-btn");
-    button.addEventListener("click", () => selectAnswer(answer));
-    answerButtons.appendChild(button);
-  });
+  currentQuestion.answers.forEach((answer, index) => {
+    const button = document.createElement("button")
+    button.innerText = answer.text
+    button.classList.add("answer-btn")
+    button.style.animationDelay = `${index * 0.1}s`
+    button.addEventListener("click", () => selectAnswer(answer))
+    answerButtons.appendChild(button)
+  })
 
   // Reset Next button
-  nextButton.innerText = "Siguiente";
-  nextButton.style.visibility = "hidden";
-  nextButton.style.opacity = "0";
-  nextButton.removeEventListener("click", handleNextQuestion);
-  nextButton.addEventListener("click", handleNextQuestion);
+  nextButton.innerText = "Siguiente"
+  nextButton.style.visibility = "hidden"
+  nextButton.style.opacity = "0"
+  nextButton.classList.remove("show")
+  nextButton.removeEventListener("click", handleNextQuestion)
+  nextButton.addEventListener("click", handleNextQuestion)
 }
 
 function selectAnswer(answer) {
   // Disable all buttons after selection
   document.querySelectorAll(".answer-btn").forEach((button) => {
-    button.classList.add("disabled");
-    button.style.pointerEvents = "none";
-  });
+    button.classList.add("disabled")
+    button.style.pointerEvents = "none"
+  })
 
   // Ensure the correct answer gets updated visually
   document.querySelectorAll(".answer-btn").forEach((button) => {
     if (button.innerText === answer.text) {
-      button.classList.add(answer.correct ? "correct" : "wrong");
+      button.classList.add(answer.correct ? "correct" : "wrong")
     }
-  });
+  })
 
-  // ✅ Fix: Ensure the score increments and updates the UI
+  // Increase the score and update the UI if correct
   if (answer.correct) {
-    score++; // ✅ Increase the score
-    scoreText.innerText = score; // ✅ Update the UI
+    score++
+    scoreText.innerText = score
+
+    // Add a small animation to the score
+    scoreText.classList.add("animate-pulse")
+    setTimeout(() => {
+      scoreText.classList.remove("animate-pulse")
+    }, 1000)
   }
 
   // Show the Next button
-  nextButton.style.visibility = "visible";
-  nextButton.style.opacity = "1";
+  nextButton.style.visibility = "visible"
+  nextButton.classList.add("show")
+  nextButton.style.opacity = "1"
 
   // Handle Next or Restart
-  nextButton.removeEventListener("click", handleNextQuestion);
-  nextButton.removeEventListener("click", startQuiz);
+  nextButton.removeEventListener("click", handleNextQuestion)
+  nextButton.removeEventListener("click", showResults)
 
   if (currentQuestionIndex === questions.length - 1) {
-    nextButton.innerText = "Reiniciar Quiz"; // ✅ Ensure this is set IMMEDIATELY
-    nextButton.style.backgroundColor = "#FFD166";
-    nextButton.style.color = "#0D1B2A";
-    nextButton.style.boxShadow = "2px 4px 8px rgba(255, 209, 102, 0.2)";
-    nextButton.addEventListener("click", startQuiz);
+    nextButton.innerText = "Ver Resultados"
+    nextButton.style.backgroundColor = "hsl(var(--accent))"
+    nextButton.style.color = "hsl(var(--accent-foreground))"
+    nextButton.addEventListener("click", showResults)
   } else {
-    nextButton.innerText = "Siguiente";
-    nextButton.style.backgroundColor = "#FF6F61";
-    nextButton.style.color = "white";
-    nextButton.style.boxShadow = "2px 4px 8px rgba(255, 111, 97, 0.2)";
-    nextButton.addEventListener("click", handleNextQuestion);
+    nextButton.innerText = "Siguiente"
+    nextButton.style.backgroundColor = "hsl(var(--secondary))"
+    nextButton.style.color = "hsl(var(--secondary-foreground))"
+    nextButton.addEventListener("click", handleNextQuestion)
   }
 }
 
 function handleNextQuestion() {
-  currentQuestionIndex++;
+  currentQuestionIndex++
   if (currentQuestionIndex < questions.length) {
-    showQuestion();
-    nextButton.style.visibility = "hidden";
-    nextButton.style.opacity = "0";
+    showQuestion()
+    nextButton.style.visibility = "hidden"
+    nextButton.style.opacity = "0"
+    nextButton.classList.remove("show")
   }
 }
 
-function startQuiz() {
-  currentQuestionIndex = 0;
-  score = 0;
-  document.getElementById("score").innerText = score;
-  document.getElementById("total-questions").innerText = questions.length;
+function showResults() {
+  document.getElementById("question-container").style.display = "none"
+  nextButton.style.display = "none"
+  scoreContainer.style.display = "block"
 
-  // 🚀 Remove next button from the DOM before resetting
-  if (nextButton.parentNode) {
-    nextButton.parentNode.removeChild(nextButton);
+  finalScoreText.innerText = score
+  totalQuestionsFinalText.innerText = questions.length
+
+  // Calculate percentage and show appropriate message
+  const percentage = (score / questions.length) * 100
+  let message = ""
+
+  if (percentage >= 90) {
+    message = "¡Excelente! Has dominado este tema."
+    createConfetti()
+  } else if (percentage >= 70) {
+    message = "¡Muy bien! Tienes un buen conocimiento del tema."
+  } else if (percentage >= 50) {
+    message = "Bien. Sigue practicando para mejorar."
+  } else {
+    message = "Necesitas repasar este tema. ¡No te rindas!"
   }
 
-  // ✅ Reset UI without the button interfering
-  if (questions.length > 0) {
-    setTimeout(() => {
-      showQuestion();
+  resultMessage.innerText = message
+}
 
-      // 🚀 Re-add button after UI is fully set
-      answerButtons.after(nextButton);
-      nextButton.style.visibility = "hidden";
-      nextButton.style.opacity = "0";
-    }, 50); // Small delay prevents flickering
+function createConfetti() {
+  const confettiContainer = document.getElementById("confetti-container")
+  const colors = ["#ff0000", "#00ff00", "#0000ff", "#ffff00", "#ff00ff", "#00ffff"]
+
+  for (let i = 0; i < 100; i++) {
+    const confetti = document.createElement("div")
+    confetti.classList.add("confetti")
+    confetti.style.left = `${Math.random() * 100}%`
+    confetti.style.backgroundColor = colors[Math.floor(Math.random() * colors.length)]
+    confetti.style.width = `${Math.random() * 10 + 5}px`
+    confetti.style.height = `${Math.random() * 10 + 5}px`
+    confetti.style.animationDuration = `${Math.random() * 3 + 2}s`
+    confetti.style.animationDelay = `${Math.random() * 2}s`
+
+    // Random shapes
+    const shapeType = Math.floor(Math.random() * 3)
+    if (shapeType === 0) {
+      confetti.style.borderRadius = "50%" // Circle
+    } else if (shapeType === 1) {
+      confetti.style.borderRadius = "0" // Square
+    } else {
+      confetti.style.width = "0"
+      confetti.style.height = "0"
+      confetti.style.borderLeft = `${Math.random() * 5 + 5}px solid transparent`
+      confetti.style.borderRight = `${Math.random() * 5 + 5}px solid transparent`
+      confetti.style.borderBottom = `${Math.random() * 10 + 10}px solid ${colors[Math.floor(Math.random() * colors.length)]}`
+      confetti.style.backgroundColor = "transparent"
+    }
+
+    confettiContainer.appendChild(confetti)
+  }
+
+  // Remove confetti after animation completes
+  setTimeout(() => {
+    confettiContainer.innerHTML = ""
+  }, 5000)
+}
+
+function startQuiz() {
+  currentQuestionIndex = 0
+  score = 0
+  document.getElementById("score").innerText = score
+  document.getElementById("total-questions").innerText = questions.length
+
+  // Reset UI
+  document.getElementById("question-container").style.display = "block"
+  nextButton.style.display = "block"
+  scoreContainer.style.display = "none"
+
+  if (questions.length > 0) {
+    showQuestion()
+    nextButton.style.visibility = "hidden"
+    nextButton.style.opacity = "0"
+    nextButton.classList.remove("show")
   } else {
-    document.getElementById("question-text").innerText =
-      "No questions available.";
+    document.getElementById("question-text").innerText = "No questions available."
   }
 }
 
 // Initialize the quiz
-startQuiz();
+document.addEventListener("DOMContentLoaded", () => {
+  loadQuestions(getCourseFromPath())
 
-loadQuestions(getCourseFromPath());
+  // Add event listener for restart button
+  restartButton.addEventListener("click", startQuiz)
+})
+

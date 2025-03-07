@@ -1,17 +1,22 @@
 <!DOCTYPE html>
-<html lang="es">
+<html lang="es" class="dark">
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>PDB Music Academy Quiz</title>
     <link rel="stylesheet" href="styles.css" />
     <link
-      href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600;700&display=swap"
+      href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap"
       rel="stylesheet"
     />
+    <script src="https://cdn.jsdelivr.net/npm/feather-icons/dist/feather.min.js"></script>
   </head>
   <body>
     <div id="quiz-container">
+      <button id="theme-toggle" class="theme-toggle" aria-label="Toggle theme">
+        <i data-feather="moon"></i>
+      </button>
+      
       <h1 id="course-title">Loading...</h1>
 
       <div id="quiz-header">
@@ -19,7 +24,13 @@
           Pregunta <span id="current-question">1</span> de
           <span id="total-questions">5</span>
         </p>
-        <p id="score-text">Puntuación: <span id="score">0</span></p>
+        <p id="score-text">
+          Puntuación: <span id="score">0</span>
+        </p>
+      </div>
+
+      <div class="progress-container">
+        <div class="progress-bar" style="width: 0%"></div>
       </div>
 
       <div id="score-container" style="display: none">
@@ -28,6 +39,7 @@
           Tu puntuación: <span id="final-score"></span> /
           <span id="total-questions-final"></span>
         </p>
+        <div id="result-message" class="mt-4 mb-6"></div>
         <button id="restart-button">Reiniciar Quiz</button>
       </div>
 
@@ -36,13 +48,36 @@
           <p id="question-text">Loading question...</p>
         </div>
         <div id="answer-buttons"></div>
-        <!-- ✅ Added missing div -->
       </div>
 
-      <button id="next-button" style="visibility: hidden">Next</button>
-      <!-- ✅ Initially hidden -->
+      <button id="next-button">Siguiente</button>
+      
+      <div id="confetti-container"></div>
     </div>
 
     <script src="script.js"></script>
+    <script>
+      // Initialize Feather icons
+      document.addEventListener('DOMContentLoaded', () => {
+        feather.replace();
+        
+        // Theme toggle functionality
+        const themeToggle = document.getElementById('theme-toggle');
+        const html = document.documentElement;
+        const icon = themeToggle.querySelector('i');
+        
+        themeToggle.addEventListener('click', () => {
+          if (html.classList.contains('dark')) {
+            html.classList.remove('dark');
+            icon.setAttribute('data-feather', 'sun');
+          } else {
+            html.classList.add('dark');
+            icon.setAttribute('data-feather', 'moon');
+          }
+          feather.replace();
+        });
+      });
+    </script>
   </body>
 </html>
+
