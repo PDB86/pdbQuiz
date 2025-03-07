@@ -44,10 +44,20 @@ async function loadQuestions(course) {
   }
 }
 
+function getQueryParams() {
+  const params = new URLSearchParams(window.location.search);
+  const queryParams = {};
+
+  for (const [key, value] of params.entries()) {
+    queryParams[key] = value;
+  }
+
+  return queryParams;
+}
+
 function getCourseFromPath() {
   const path = window.location.pathname; // Get the URL path (e.g., "/armonia-1")
-  const segments = path.split("/"); // Split the path by "/"
-  const lastSegment = segments.pop() || segments.pop(); // Get the last segment (handles trailing slash)
+  const lastSegment = getQueryParams()["course"]
 
   const courseMap = {
     "armonia-1": "Armonia I",
