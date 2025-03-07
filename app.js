@@ -9,7 +9,7 @@ app.use(express.static("public"));
 
 // Route to serve index.html for any course page
 app.get("/course", (req, res) => {
-  res.sendFile(path.join(__dirname, "public", "index.html"));
+  res.sendFile(path.join(__dirname, "public", "course.html"));
 });
 
 // Start the server
